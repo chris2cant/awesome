@@ -1,4 +1,4 @@
-# Angular - Storybook Guide
+# Angular - Storybook
 
 ## Install
 

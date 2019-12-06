@@ -1,4 +1,4 @@
-# Javascript/Typescript Style Guide
+# Javascript/Typescript - Style Guide
 
 This style guide is inspired from the john papa style guide.
 

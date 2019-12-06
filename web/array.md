@@ -1,4 +1,4 @@
-# Array
+# JS - Array
 
 ## Map
 

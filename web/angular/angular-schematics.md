@@ -1,4 +1,4 @@
-# 🏗 Angular Schematics
+# 🏗 Angular - Schematics
 
 ## Build
 
