@@ -6,7 +6,7 @@
 - [VSCode](https://gist.github.com/chris2cant/2e850e7c4d1475e0c21339b9852b210e)
 - [Unix Terminal 🖥](https://gist.github.com/chris2cant/dbdf38c904800fa12f8aa8e6c8223c5a)
 - [Web 🌎](https://gist.github.com/chris2cant/b2c79e0897b21a9299d78a615b72737d)
-  - [Design System](https://gist.github.com/chris2cant/89f197621d70323d6b8068097ade38be)
+  - [Design System](/web/design-system.md)
   - [Javascript/Typescript Style Guide](https://gist.github.com/chris2cant/c5a29a51e40ee01d4e5a98ce44a7a999)
   - [Array Functions - JS/TS](https://gist.github.com/chris2cant/2c2b5b67a0daf47302a54ed2d55bb3cf)
   - Angular
