@@ -1,4 +1,11 @@
-# Gist
+<h1 align="center">
+  Awesome ressources
+</h1>
+
+## Motivation
+
+I love to shared everithing that I discover awesome !
+Thanks to all the contributors who made me discover incredible things !
 
 ## Table of content
 
