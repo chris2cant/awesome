@@ -3,7 +3,7 @@
 ## UX
 
 - [Dois-je utiliser ? :fr:](https://www.doisjeutiliser.fr/)
-- [User Inyterface - A Worst Practice UI Experiment](https://userinyerface.com/game.html)
+- [User Inyterface](https://userinyerface.com/game.html) - A Worst Practice UI Experiment
 
 ## UI
 
