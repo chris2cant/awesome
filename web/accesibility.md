@@ -26,6 +26,7 @@
 
 - [🎥 Headings, Landmarks and Tabs](https://youtu.be/HE2R86EZPMA)
 - [🎥 Practical Tips For Building More Accessible Front-Ends at SmashingConf Feiburg 2019](https://vimeo.com/362155651)
+- [Reading a Web Page using Apple Voice Over](https://medium.com/accessibility-a11y/reading-a-web-page-using-apple-voice-over-cd1a637e6285)
 
 ## 🙌 Contributors 
 
