@@ -5,6 +5,16 @@
 - [Webhint](https://webhint.io/)
 - [A11yproject](https://a11yproject.com/)
 
+## Voice Over
+
+| Action | Command |
+| --- | --- |
+| Start Voice Over | `Command`+`F5` |
+| Voice Over Key  | `Control`+`Option` |
+| Open Rotor (All links of the page)| `Control`+`Option`+`U` |
+| Rotor Navigation| ⬅ ➡ |
+
+
 ## Tips
 
 ### Display accesibility informations in **Chrome Browser**
