@@ -11,8 +11,8 @@
 | --- | --- |
 | Start Voice Over | `Command`+`F5` |
 | Voice Over Key  | `Control`+`Option` |
-| Open Rotor (All links of the page)| `Control`+`Option`+`U` |
-| Rotor Navigation| ⬅ ➡ |
+| Rotor (All the content of the page) : Open| `Control`+`Option`+`U` |
+| Rotor (All the content of the page) : Navigation| ⬅ ➡ |
 
 
 ## Tips
