@@ -13,6 +13,7 @@
 | Voice Over Key  | `Control`+`Option` |
 | Rotor (All the content of the page) : Open| `Control`+`Option`+`U` |
 | Rotor (All the content of the page) : Navigation| ⬅ ➡ |
+| Start Reading the page | `Control`+`Option`+`A` |
 
 
 ## Tips
