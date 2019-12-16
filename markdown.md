@@ -80,3 +80,24 @@ ___
 ___
 
 </details>
+
+## Table
+
+```
+| Header 1 | Header 2 |
+| --- | --- |
+| Content 1.1 | Content 1.2 |
+| Content 2.1 | Content 2.2 |
+```
+
+<details>
+  <summary>
+    Examples
+  </summary>
+
+| Header 1 | Header 2 |
+| --- | --- |
+| Content 1.1 | Content 1.2 |
+| Content 2.1 | Content 2.2 |
+
+</details>
