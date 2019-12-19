@@ -14,7 +14,7 @@ Reduce :
 
 ```typescript
 // Complexity : 7
-const sendToSanta = (items, discount) => {
+const sendToSanta = (items, discount): void => {
 	let totalPrice = 0;
 	// Get total price
 	for (let i = 0; i < items.length; i++) {
@@ -40,7 +40,7 @@ const sendToSanta = (items, discount) => {
 
 ```typescript
 // Complexity : 2
-const sendToSanta = (items, discount) => {
+const sendToSanta = (items, discount):void => {
 	let totalPrice = 0;
 	totalPrice = getTotalPrice(items);
 	totalPrice = applyDiscount(totalPrice, discount);
@@ -68,7 +68,7 @@ sendToSanta
 
 ```typescript
 // Complexity : 2
-const sendToSanta = (items, discount) => {
+const sendToSanta = (items, discount): void => {
   // getTotalPrice
   let totalPrice = 0;
   for (let i = 0; i < items.length; i++) {
@@ -82,14 +82,14 @@ const sendToSanta = (items, discount) => {
 
 ```typescript
 // Complexity : 1
-const sendToSanta = (items, discount) => {
+const sendToSanta = (items, discount): void => {
   let totalPrice = 0;
   totalPrice = getTotalPrice(items);
   ...
 }
 
 // Complexity : 2
-const getTotalPrice = (items) => {
+const getTotalPrice = (items): number => {
   let totalPrice = 0;
   for (let i = 0; i < items.length; i++) {
     totalPrice += items[i].price;
@@ -119,7 +119,7 @@ if(canPay(this.myAccount.amount, totalPrice)) {
   ...
 }
 
-const canPay = (totalPrice) => {
+const canPay = (totalPrice): boolean => {
 	return (this.myAccount.amount > 0 && this.myAccount.amount >= totalPrice)
 }
 ```
