@@ -17,7 +17,7 @@ Reduce :
 const sendToSanta = (items, discount) => {
 	let totalPrice = 0;
 	// Get total price
-	for (const i = 0; i < items.length; i++) {
+	for (let i = 0; i < items.length; i++) {
 		totalPrice += items[i].price;
 	}
 	// Apply Discount
