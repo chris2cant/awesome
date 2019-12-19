@@ -15,24 +15,24 @@ Reduce :
 ```typescript
 // Complexity : 7
 const sendToSanta = (items, discount): void => {
-	let totalPrice = 0;
-	// Get total price
-	for (let i = 0; i < items.length; i++) {
-		totalPrice += items[i].price;
-	}
-	// Apply Discount
-	if (discount >= 0) {
-		totalPrice -= discount;
-	} 
-	// Check if the account is not too low
-	if (this.myAccount.amount > 0 && this.myAccount.amount >= totalPrice) {
-		// procced To Paiment
-		API.paiement().subscribe(() => {
-			console.log('Merry Christmas');
-		}).catch(() => {
-			console.error('An error appear :(');
-		});
-	}
+  let totalPrice = 0;
+  // Get total price
+  for (let i = 0; i < items.length; i++) {
+    totalPrice += items[i].price;
+  }
+  // Apply Discount
+  if (discount >= 0) {
+    totalPrice -= discount;
+  } 
+  // Check if the account is not too low
+  if (this.myAccount.amount > 0 && this.myAccount.amount >= totalPrice) {
+    // procced To Paiment
+    API.paiement().subscribe(() => {
+      console.log('Merry Christmas');
+    }).catch(() => {
+      console.error('An error appear :(');
+    });
+  }
 }
 ```
 
@@ -41,12 +41,12 @@ const sendToSanta = (items, discount): void => {
 ```typescript
 // Complexity : 2
 const sendToSanta = (items, discount):void => {
-	let totalPrice = 0;
-	totalPrice = getTotalPrice(items);
-	totalPrice = applyDiscount(totalPrice, discount);
-	if(canPay(this.myAccount.amount, totalPrice)) {
-		makeThePaiement(totalPrice);
-	}
+  let totalPrice = 0;
+  totalPrice = getTotalPrice(items);
+  totalPrice = applyDiscount(totalPrice, discount);
+  if(canPay(this.myAccount.amount, totalPrice)) {
+    makeThePaiement(totalPrice);
+  }
 }
 ```
 
@@ -120,7 +120,7 @@ if(canPay(this.myAccount.amount, totalPrice)) {
 }
 
 const canPay = (totalPrice): boolean => {
-	return (this.myAccount.amount > 0 && this.myAccount.amount >= totalPrice)
+  return (this.myAccount.amount > 0 && this.myAccount.amount >= totalPrice)
 }
 ```
 
