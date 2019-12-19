@@ -23,7 +23,7 @@ const sendToSanta = (items, discount) => {
 	// Apply Discount
 	if (discount >= 0) {
 		totalPrice -= discount;
-	}
+	} 
 	// Check if the account is not too low
 	if (this.myAccount.amount > 0 && this.myAccount.amount >= totalPrice) {
 		// procced To Paiment
