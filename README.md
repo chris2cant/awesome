@@ -25,6 +25,7 @@ Thanks to all the contributors who made me discover incredible things !
   - [Style - CSS/SCSS/JSS/...](/web/css.md)
   - [Gallery](/web/gallery.md)
   - [Accesibility ♿️](/web/accesibility.md)
+  - [Human Readable Programming](/web/human-readable-programming.md)
 - [UX/UI](/ux-ui/ux-ui.md)
 - [Lorem Ipsum tools](/lorem-ipsum.md)
 - [Flutter](/flutter.md)(WIP 🏗)
