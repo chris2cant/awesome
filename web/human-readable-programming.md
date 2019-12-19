@@ -50,6 +50,16 @@ const sendToSanta = (items, discount) => {
 }
 ```
 
+### Human Readable
+
+```
+sendToSanta
+  getTotalPrice
+  applyDiscount
+  if (canPay)
+    makeThePaiement
+```
+
 ## Convert your code
 
 ### Functions
