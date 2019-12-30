@@ -72,6 +72,9 @@
 - [DotCSS 2019 - Paris](https://www.dotconferences.com/conference/dotcss-2019)
 - [DotCSS 2018 - Paris](https://www.dotconferences.com/conference/dotcss-2018)
 - [DotCSS 2017 - Paris](https://www.dotconferences.com/conference/dotcss-2017)
+- [DotCSS 2016 - Paris](https://www.dotconferences.com/conference/dotcss-2016)
+- [DotCSS 2015 - Paris](https://www.dotconferences.com/conference/dotcss-2015)
+- [DotCSS 2014 - Paris](https://www.dotconferences.com/conference/dotcss-2014)
 
 ## Articles / Examples
 
