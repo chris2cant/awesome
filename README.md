@@ -14,7 +14,8 @@ Thanks to all the contributors who made me discover incredible things !
 - [Unix Terminal 🖥](/unix-terminal.md)
 - [Web 🌎](/web/web.md)
   - [Design System](/web/design-system.md)
-  - [Javascript/Typescript Style Guide](/web/javascript-typescript-style-guide.md)
+  - [Javascript & Typescript](/web/javascript-typescript.md)
+    - [Javascript & Typescript - Style Guide](/web/javascript-typescript-style-guide.md)
   - [Array Functions - JS/TS](/web/array.md)
   - Angular
     - [Angular](/web/angular/angular.md)
