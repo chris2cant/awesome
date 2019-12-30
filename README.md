@@ -16,7 +16,7 @@ Thanks to all the contributors who made me discover incredible things !
   - [Design System](/web/design-system.md)
   - [Javascript & Typescript](/web/javascript-typescript.md)
     - [Javascript & Typescript - Style Guide](/web/javascript-typescript-style-guide.md)
-  - [Array Functions - JS/TS](/web/array.md)
+    - [Array Functions - JS/TS](/web/array.md)
   - Angular
     - [Angular](/web/angular/angular.md)
     - [Angular - Storybook Guide](/web/angular/angular-storybook.md)
