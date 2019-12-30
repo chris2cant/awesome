@@ -67,6 +67,10 @@
 
 - [UI Gradients](https://uigradients.com/#Timber) - Gradient generator
 
+## Conferences
+
+- [DotCSS 2019 - Paris](https://www.dotconferences.com/conference/dotcss-2019)
+
 ## Articles / Examples
 
 - [La Cascade - Un peu de tout sur CSS, HTML, SVG, JavaScript et le reste](https://la-cascade.io/)
