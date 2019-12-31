@@ -378,6 +378,16 @@ That's it !
 git pull --autostash
 ```
 
+### Show commit timestamp
+
+```sh
+# -s : Suppresses the diffs from showing
+# %ct : committer date, UNIX timestamp
+git show -s --format=%ct
+# Result :
+# 1577785324
+```
+
 ## :pushpin: Pinned articles
 
 - [OneFlow - a Git branching model and workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
