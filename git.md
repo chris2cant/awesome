@@ -22,6 +22,8 @@ This guide follows the oneflow method. Everything in this guide merge my experie
 		- [Start hotfix](#start-hotfix)
 		- [Finish hotfix](#finish-hotfix)
 	- [:scissors: Squash commit](#squash-commit)
+	- [Show commit timestamp](#commit-timestamp)
+	- [Pull with auto stash](#pull-autostash)
 - [:pushpin: Pinned articles](#pinned-article)
 
 
@@ -366,7 +368,7 @@ Now you have one commit per feature. It's cleaned !
 
 That's it !
 
-<a name="pinned-articles"/>
+<a name="pull-autostash"/>
 
 ### Pull with auto stash
 
@@ -378,6 +380,8 @@ That's it !
 git pull --autostash
 ```
 
+<a name="commit-timestamp"/>
+
 ### Show commit timestamp
 
 ```sh
@@ -387,6 +391,8 @@ git show -s --format=%ct
 # Result :
 # 1577785324
 ```
+
+<a name="pinned-article"/>
 
 ## :pushpin: Pinned articles
 
