@@ -21,6 +21,14 @@ export class MslFieldComponent implements OnInit {
 
 [Stackblitz Example](https://stackblitz.com/edit/angular-general-parent-injection?file=app%2Fhello.component.ts)
 
+## Mocking 
+
+- Why ? : Work without backend at any time.
+- Why ? : Dev and test with mocked data.
+- Why ? : Show your frontend without backend issues
+
+- [Angular 7 - Mock Backend Example for Backendless Development](https://jasonwatmore.com/post/2019/05/02/angular-7-mock-backend-example-for-backendless-development)
+
 ## Articles
 
 - Testing
