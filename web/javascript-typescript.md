@@ -1,5 +1,9 @@
 # Javascript & Typescript
 
+## IF vs Switch vs Lookup Table
+
+- [JSPerf - IF vs Switch vs Lookup Table](https://jsperf.com/if-switch-lookup-table/10)
+
 ## Conferences
 
 - [DotJS 2019 - Paris](https://www.dotconferences.com/conference/dotjs-2019)
