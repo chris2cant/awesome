@@ -7,6 +7,7 @@
 
 ## Tools
 
+- [Design System - Checklist](https://designsystemchecklist.com/)
 - [Learn Storybook - Design System](https://www.learnstorybook.com/design-systems-for-developers/)
 - [Product Design Tips](https://productdesign.tips/)
 - [Lona by Airbnb](https://github.com/airbnb/Lona)
