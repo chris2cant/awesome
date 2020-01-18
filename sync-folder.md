@@ -2,14 +2,24 @@
 
 ## Command
 
+### Sync two folders
+
 ```sh
+# -a Do the sync preserving all filesystem attributes
+# -v run verbosely
+# -u only copy files with a newer modification time (or size difference if the times are equal)
+rsync -avu origin/ destination/
+```
+
+### Sync two folders (with delete missing files)
+
+```
 # -a Do the sync preserving all filesystem attributes
 # -v run verbosely
 # -u only copy files with a newer modification time (or size difference if the times are equal)
 # --delete delete the files in target folder that do not exist in the source
 rsync -avu --delete origin/ destination/
 ```
-
 ## Example
 
 ```sh
