@@ -27,28 +27,20 @@ cd origin/;
 echo "test 2" > test2.txt;
 cd ..
 rsync -avu origin/ destination/
-
-tree
-
-.
-├── destination
-│   ├── test.txt
-│   └── test2.txt
-└── origin
-    ├── test.txt
-    └── test2.txt
-
-2 directories, 4 files
-```
-
-```sh
+#tree
+#.
+#├── destination
+#│   ├── test.txt
+#│   └── test2.txt
+#└── origin
+#    ├── test.txt
+#    └── test2.txt
 cd origin/; rm test.txt; cd -
 rsync -avu --delete origin/ destination/
-tree
-
-.
-├── destination
-│   └── test2.txt
-└── origin
-    └── test2.txt
+#tree
+#.
+#├── destination
+#│   └── test2.txt
+#└── origin
+#    └── test2.txt
 ```
