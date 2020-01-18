@@ -1,4 +1,4 @@
-# Sync folder
+# ↔️ Sync folder 
 
 ## Command
 
@@ -11,7 +11,7 @@
 rsync -avu origin/ destination/
 ```
 
-### Sync two folders (with delete missing files)
+### Sync two folders (⚠️ with delete missing files)
 
 ```
 # -a Do the sync preserving all filesystem attributes
