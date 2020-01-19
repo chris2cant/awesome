@@ -1,4 +1,4 @@
-# 🚧 WIP : Scrum 🚧
+# Scrum (WIP 🏗)
 
 - [Daily Meeting](#daily-meeting)
 - [Sprint](#sprint)
