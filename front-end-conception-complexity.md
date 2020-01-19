@@ -8,6 +8,7 @@
 - **Why ?** : Use Design System instead of recreate components
 - **Why ?** : Prepare your data before your app
 
+You should : 
 - Design System
 - Components (Think Atomic design)
 - Data (Mock)
