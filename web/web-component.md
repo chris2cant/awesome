@@ -2,7 +2,7 @@
 
 ## Framework
 
-- [Stencil - For Design System](https://stenciljs.com/)
+- [Stencil](https://stenciljs.com/)(For Design System)
 
 ## 🙌 Contributors 
 
