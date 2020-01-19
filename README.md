@@ -37,7 +37,7 @@ Thanks to all the contributors who made me discover incredible things !
 - [Design 🎨](/design.md)
 - [Markdown Cheatsheet](/markdown.md)
 - [Write a documentation - Style guide ✍️](/write-documentation-style-guide.md)
-- [WIP : Scrum](/scrum.md)
+- [Scrum](/scrum.md)(WIP 🏗)
 - [Fun](/fun.md)
 - [Iphone](/iphone.md)
 
