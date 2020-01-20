@@ -21,7 +21,7 @@ When you finish identification you can start to code !
 - Component 
 - Fetch Data (With Mock)
 - Component assembly to create view (Without logic)
-- Uer interactions
+- User interactions
 
 ## Validate the Design
 
