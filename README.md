@@ -30,6 +30,7 @@ Thanks to all the contributors who made me discover incredible things !
   - [Accesibility ♿️](/web/accesibility.md)
   - [Human Readable Programming](/web/human-readable-programming.md)
   - [Web Component](/web/web-component.md)
+  - [Analytics 📊](/web/analytics.md)
 - [UX/UI](/ux-ui/ux-ui.md)
 - [Lorem Ipsum tools](/lorem-ipsum.md)
 - [Flutter](/flutter.md) (Work In Progress 🏗)
