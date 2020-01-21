@@ -8,10 +8,10 @@
 - **Why ?** : Use Design System instead of recreate components
 - **Why ?** : Prepare your data before your app
 
-You should : 
-- Design System
-- Components (Think Atomic design)
-- Data (Mock)
+You should identify : 
+- Design System Components
+- Specific Components (Think Atomic design)
+- Data (Displayed)
 - User Interactions
 
 ### Creation
