@@ -1,4 +1,4 @@
-# WIP : Front end conception & complexity
+# Front end conception & complexity (Work In Progress🏗)
 
 ## Tasks
 
