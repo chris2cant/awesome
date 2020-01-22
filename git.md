@@ -248,8 +248,8 @@ git push origin :release/1.0.0
 
 ```sh
 git checkout master
-# Create a branch hotfix from the tag 1.0.1
-git checkout -b hotfix/1.0.1 1.0.1
+# Create a branch hotfix from the tag 1.0.0
+git checkout -b hotfix/1.0.1 1.0.0
 # Publishing this local branch on the remote server
 git push -u origin hotfix/1.0.1
 ```
