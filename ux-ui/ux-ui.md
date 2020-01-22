@@ -4,6 +4,7 @@
 
 - [Dois-je utiliser ? :fr:](https://www.doisjeutiliser.fr/)
 - [User Inyterface - A Worst Practice UI Experiment](https://userinyerface.com/game.html)
+- [BatUX - An infographic rethinking Batman’s classic outfit in a user-centric way](http://batux.design/)
 
 ## UI
 
