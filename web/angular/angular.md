@@ -28,6 +28,7 @@ export class MslFieldComponent implements OnInit {
 - Why ? : Show your frontend without backend issues
 
 - [Angular 7 - Mock Backend Example for Backendless Development](https://jasonwatmore.com/post/2019/05/02/angular-7-mock-backend-example-for-backendless-development)
+- [Angular Http Mock Interceptor for mocked backend](https://dev.to/sanidz/angular-http-mock-interceptor-for-mocked-backend-1h5g)
 
 ## ng-select 
 
