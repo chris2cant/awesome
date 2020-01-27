@@ -29,6 +29,7 @@
 - [Stack mirroring: Designing for code and coding for design](https://www.designsystems.com/stack-mirroring-designing-for-code-and-coding-for-design/)
 - [Retrospective: a year and a half creating a library of components for mobile apps](https://medium.com/@gereec_t/retrospective-a-year-and-a-half-creating-a-library-of-components-for-mobile-apps-87a460487c9b)
 - [The People of Veriff: Measuring the Impact of a Design System](https://www.veriff.com/veriff-times/measuring-impact-design-system?utm_campaign=Design%2BSystems%2BWeekly&utm_medium=email&utm_source=Design_Systems_Weekly_92)
+- [Reimagining Design Systems at Spotify](https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/)
 
 ### Invision
 
