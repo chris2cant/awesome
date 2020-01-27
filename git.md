@@ -417,3 +417,4 @@ git branch -vv | grep ': gone]' | grep -v "\*" | awk '{print $1}' | xargs git br
 
 - [OneFlow - a Git branching model and workflow] - https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
 - [SemVer](https://semver.org/)
+- [Delete local Git branches that where deleted on remote repository](https://medium.com/@kcmueller/delete-local-git-branches-that-were-deleted-on-remote-repository-b596b71b530c)
