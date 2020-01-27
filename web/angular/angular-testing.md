@@ -51,7 +51,7 @@ it('Should call myFunc', () => {
 // Your code
 function methodThatReturnsThrowingObs() {
   return throwError({
-    error: 'My Error'
+    error: 'My error'
   });
 }
 
