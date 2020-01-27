@@ -43,6 +43,29 @@ it('Should call myFunc', () => {
 });
 ```
 
+## Rxjs
+
+### throwError
+
+```ts
+// Your code
+function methodThatReturnsThrowingObs() {
+  return throwError({
+    error: 'My Error'
+  });
+}
+
+// Your test
+it('should throw an error', (done: DoneFn) => {
+  methodThatReturnsThrowingObs().subscribe({
+    error: (err) => {
+      expect(err).toEqual({ error: 'My error' });
+      done();
+    }
+  })
+});
+```
+
 ## Tools
 
 - [Spectator](https://github.com/ngneat/spectator)
