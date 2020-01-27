@@ -24,6 +24,7 @@ This guide follows the oneflow method. Everything in this guide merge my experie
 	- [:scissors: Squash commit](#squash-commit)
 	- [Show commit timestamp](#commit-timestamp)
 	- [Pull with auto stash](#pull-autostash)
+- [✨Remove deleted branches](#remove-deleted-branches)
 - [:pushpin: Pinned articles](#pinned-article)
 
 
@@ -390,6 +391,19 @@ git pull --autostash
 git show -s --format=%ct
 # Result :
 # 1577785324
+```
+
+<a name="remove-deleted-branches"/>
+
+### Remove deleted branches
+
+```sh
+# git branch -vv : list local branches and information about remote branches ("gone” if it's deleted)
+# grep ': gone]' : Keep only "gone" branches
+# grep -v "\*" : Avoid current branch (contain an asterisk)
+# awk '{print $1}' : Print only the branch name
+# xargs git branch -D : Force to delete each branch
+git branch -vv | grep ': gone]' | grep -v "\*" | awk '{print $1}' | xargs git branch -D
 ```
 
 <a name="pinned-article"/>
