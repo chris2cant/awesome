@@ -43,6 +43,34 @@ it('Should call myFunc', () => {
 });
 ```
 
+## Service
+
+## Have been called
+
+```ts
+let myCustomService: MyCustomService;
+  beforeEach(async(() => {
+    TestBed.configureTestingModule({
+      imports: [],
+      declarations: [],
+      providers: [{ provide: MyCustomService, useClass: MockedMyCustomService }]
+    }).compileComponents();
+  }));
+  
+  beforeEach(() => {
+    fixture = TestBed.createComponent(MyCustomComponent);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+    myCustomService = TestBed.get(MyCustomService);
+  });
+  
+  it('Should diplay a modal', () => {
+    const spiedFunction = spyOn(myCustomService, 'open');
+    component.methodWhoCallMyCustomService();
+    expect(spiedFunction).toHaveBeenCalled();
+  });
+```
+
 ## Rxjs
 
 ### throwError
