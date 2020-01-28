@@ -14,7 +14,7 @@ Design tokens are the visual design variables of the design system. (Color / Siz
 
 ## Colors 
 
-### Main colors
+### Theme
 
 ```scss
 $primary: #6200EE;
