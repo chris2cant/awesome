@@ -12,6 +12,8 @@ Design tokens are the visual design variables of the design system. (Color / Siz
 - **Why ?** : Limit the amount of choice
 - **Why ?** : Easy to use
 
+Only 6 choices : `xs` `s` `m` `l` `xl` `xxl`
+
 ## Colors 
 
 ### Theme
