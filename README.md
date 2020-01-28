@@ -4,7 +4,7 @@
 
 ## Motivation
 
-I love to shared everithing that I discover awesome !
+I love to share everithing that I discover that is awesome !
 Thanks to all the contributors who made me discover incredible things !
 
 ## Table of content
