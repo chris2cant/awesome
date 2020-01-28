@@ -82,7 +82,9 @@ $spacing-xxl: 6.4rem;
 ## Shape
 
 ```scss
-$radius: 0.3rem;
+$radius-s: 0.3rem;
+$radius-m: 0.5rem;
+$radius-l: 0.7rem;
 ```
 
 ## disabled
