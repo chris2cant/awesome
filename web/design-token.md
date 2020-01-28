@@ -2,6 +2,16 @@
 
 Design tokens are the visual design variables of the design system. (Color / Size / Spacing / Shape / etc...)
 
+- **Why ?** : Keep the consistency.
+- **Why ?** : Simplify understanding between UX, UI & Dev ($primary instead #6200EE)
+
+## Methodology
+
+### Shirt size
+
+- **Why ?** : Limit the amount of choice
+- **Why ?** : Easy to use
+
 ## Colors 
 
 ### Main colors
