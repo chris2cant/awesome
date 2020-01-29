@@ -41,6 +41,7 @@ Thanks to all the contributors who made me discover incredible things !
 - [Scrum](/scrum.md) (Work In Progress 🏗)
 - [Fun](/fun.md)
 - [Iphone](/iphone.md)
+- [Chart](//chart.md)
 
 ## Personal Codepen 
 
