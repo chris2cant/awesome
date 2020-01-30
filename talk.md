@@ -48,6 +48,7 @@ It's on 3 parts :
 - [How to avoid death By PowerPoint | David JP Phillips | TEDxStockholmSalon](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
 - [The 110 techniques of communication and public speaking | David JP Phillips | TEDxZagreb](https://youtu.be/K0pxo-dS9Hc)
 - [Simon Sinek - Start With Why - TED Talk Short Edited](https://www.youtube.com/watch?v=IPYeCltXpxw)
+- [Flat Letter Animation in PowerPoint - Motion Graphics Tutorial - Part 2](https://www.youtube.com/watch?v=Y_quDjJ2Uzg&feature=youtu.be)
 
 ## 🛠Accessories
 
