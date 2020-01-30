@@ -74,17 +74,70 @@ const isPositive = (value) => {
 myArray.filter(isPositive);
 ```
 
-## Spacing
+## Spacing & Indentation
 
-### Instruction 
-
-
-## Indentation
-
-### Rules
+- **Why?** : Improve comprehension
 
 - Space after `if` `else` `while` `for`
+```ts
+// Don't (No space after "if" and "return")
+if(condition) {
+  return(value);
+}
+
+// Do
+if (condition) {
+  return (value);
+}
+```
+
 - Curly Brace required
+
+```ts
+// Don't (No curly brace)
+if(condition)
+  return(value);
+
+// Do
+if (condition) {
+  return (value);
+}
+
+// Don't (No curly brace)
+if(condition)
+  if(condition2)
+    return(value2);
+  return(value);
+
+// Do
+if(condition) {
+  if(condition2) {
+    return(value2);
+  }
+  return(value);
+}
+```
+
+- Align the closed curly brace with statement
+
+```js
+// Don't (Closed Curly brace not align with second if)
+if(condition) {
+  if(condition2) {
+    return(value);
+    } // <- Not aligned
+  return(value);
+}
+
+// Do
+if(condition) {
+  if(condition2) {
+    return(value2);
+  }
+  return(value);
+}
+```
+
 - No code and curly brace on the same line
 - Space instead Tab
 - Use 2 spaces size
