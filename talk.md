@@ -1,5 +1,30 @@
 # 📈 Talk
 
+## Style Guide
+
+### Structure - The Golden Structure
+
+One of a good structure is the **Golden Structure**.
+
+It's on 3 parts :
+
+- Why 
+- How
+- What
+
+#### Why
+
+- **Why ?** : Understand the goal
+
+#### How
+
+- **Why ?** : Understand how we can
+
+#### What
+
+- **Why ?** : Understand what to use 
+
+
 ## 🖥 Web App
 
 - [Prezi](www.prezi.com)
