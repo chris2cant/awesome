@@ -74,6 +74,27 @@ const isPositive = (value) => {
 myArray.filter(isPositive);
 ```
 
+## Spacing
+
+### Instruction 
+
+
+## Indentation
+
+```js
+// Don't
+if (condition) return (value); 
+
+// Don't
+if (condition) {return (value);}
+
+// Do
+if (condition)
+{
+  return (value);
+}
+```
+
 ## Sources
 
 - [Coding like Shakespeare](https://dmitripavlutin.com/coding-like-shakespeare-practical-function-naming-conventions/)
