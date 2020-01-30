@@ -95,8 +95,8 @@ if (condition) {
 
 ```ts
 // Don't (No curly brace)
-if(condition)
-  return(value);
+if (condition)
+  return (value);
 
 // Do
 if (condition) {
@@ -104,17 +104,17 @@ if (condition) {
 }
 
 // Don't (No curly brace)
-if(condition)
-  if(condition2)
-    return(value2);
-  return(value);
+if (condition)
+  if (condition2)
+    return (value2);
+  return (value);
 
 // Do
-if(condition) {
-  if(condition2) {
-    return(value2);
+if (condition) {
+  if (condition2) {
+    return (value2);
   }
-  return(value);
+  return (value);
 }
 ```
 
@@ -122,19 +122,19 @@ if(condition) {
 
 ```js
 // Don't (Closed Curly brace not align with second if)
-if(condition) {
-  if(condition2) {
-    return(value);
+if (condition) {
+  if (condition2) {
+    return (value);
     } // <- Not aligned
-  return(value);
+  return (value);
 }
 
 // Do
-if(condition) {
-  if(condition2) {
-    return(value2);
+if (condition) {
+  if (condition2) {
+    return (value2);
   }
-  return(value);
+  return (value);
 }
 ```
 
