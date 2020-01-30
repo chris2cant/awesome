@@ -88,6 +88,9 @@ myArray.filter(isPositive);
 - No code and curly brace on the same line
 - Space instead Tab
 - Use 2 spaces size
+  - **Why ?** : Enougth to indent
+  - **Why ?** : Keep your code under 80 columns
+  - **Why ?** : Used by Airbnb, NodeJS, etc...
 
 ```js
 // Don't (4 spaces per indentation)
@@ -100,6 +103,38 @@ if (condition) {
   return (value);
 }
 ```
+
+- 1 space after `,` and `;`
+
+```js
+// Don't
+for (let i = 0;i < 9;i++) {
+  myFunction(name,age);
+}
+
+// ✅Do
+for (let i = 0; i < 9; i++) {
+  myFunction(name, age);
+}
+```
+
+- 1 space before and after binary operator (``)
+
+```js
+// Don't
+x+=10*++x;
+
+// ✅Do
+x += 10 * ++x;
+```
+
+**Spaces to be clear**
+
+
+
+**2 Spaces instead 1 Tab**
+
+
 
 ```js
 // Don't (No Curly braces & One line)
