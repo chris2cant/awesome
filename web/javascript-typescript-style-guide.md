@@ -81,17 +81,72 @@ myArray.filter(isPositive);
 
 ## Indentation
 
+### Rules
+
+- Space after `if` `else` `while` `for`
+- Curly Brace required
+- No code and curly brace on the same line
+- Space instead Tab
+- Use 2 spaces size
+
 ```js
-// Don't
+// Don't (4 spaces per indentation)
+if (condition) {
+    return (value);
+}
+
+// Do (2 spaces per indentation)
+if (condition) {
+  return (value);
+}
+```
+
+```js
+// Don't (No Curly braces & One line)
 if (condition) return (value); 
 
-// Don't
+// Don't (One line)
 if (condition) {return (value);}
+
+// Don't (4 spaces per indentation)
+if (condition) {
+    return (value);
+}
+
+// ✅Do
+if (condition)
+{
+  return (value);
+}
+
+// ✅Do
+if (condition) {
+  return (value);
+}
+```
+
+```js
+// Don't
+if (condition) return (value) else return (-1); 
+
+// Don't
+if (condition) {return (value);} else {return (-1);}
 
 // Do
 if (condition)
 {
   return (value);
+}
+else
+{
+  return (-1);
+}
+
+// Do
+if (condition) {
+  return (value);
+} else {
+  return (-1);
 }
 ```
 
@@ -101,3 +156,4 @@ if (condition)
 - [AngularJS - Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 - [Data Structures Algorithms](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/blob/master/README.md)
 - [Clean code typescript](https://github.com/labs42io/clean-code-typescript/blob/master/README.md)
+- [Epita - Norme](https://www.lrde.epita.fr/~raph/docs/epita-css/norme-fr.pdf)
