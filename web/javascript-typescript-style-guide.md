@@ -113,6 +113,16 @@ if (condition) {
     return (value);
 }
 
+// Don't (No space after "if")
+if(condition) {
+  return (value);
+}
+
+// Don't (No space after ")")
+if (condition){
+  return (value);
+}
+
 // ✅Do
 if (condition)
 {
