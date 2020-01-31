@@ -34,6 +34,7 @@
 - [Jenkinsfile support](https://marketplace.visualstudio.com/items?itemName=secanis.jenkinsfile-support)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
+- [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 ### Theme
 
