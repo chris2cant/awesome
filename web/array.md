@@ -92,17 +92,20 @@ animalTypeFilter = animals.filter( animal => animal.type === 'cat' );
 ## Reduce
 
 ```ts
+// what you need:
+// 130
+
 let numbers = [100, 20, 10];
 
-// result will return 70 as the value
-// The function inside reduce will run twice. 
+result = numbers.reduce((x, y) => { return x + y; });
+
+// Explaination
 // the first time, x = 100, y = 20
-// the second time, x = 80, y = 10
-
-result = numbers.reduce((x, y) => { return x - y; });
-```
+// the second time, x = 120, y = 10
 
 ```
+
+```ts
 let animals = [
     {name: 'Tibbers', type: 'cat', isNeutered: true, age: 2},
     {name: 'Fluffball', type: 'rabbit', isNeutered: false, age: 1},
