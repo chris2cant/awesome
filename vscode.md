@@ -17,10 +17,6 @@
 - prettier.tslintIntegration : `true`
 - prettier.stylelintIntegration: `true`
 
-## Typescript Hero
-
-- typescriptHero.imports.organizeOnSave: `trues`
-
 ## Plugins
 
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
