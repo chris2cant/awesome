@@ -92,29 +92,34 @@ animalTypeFilter = animals.filter( animal => animal.type === 'cat' );
 ## Reduce
 
 ```ts
+// Prototype
+arr.reduce(callback( accumulator, currentValue[, index[, array]] )[, initialValue])
+```
+
+```ts
 // what you need:
 // 130
 
 let numbers = [100, 20, 10];
 
-result = numbers.reduce((x, y) => { return x + y; });
+result = numbers.reduce((total, currentValue) => { return total + currentValue; });
 
 // Explaination
 // the first time, x = 100, y = 20
 // the second time, x = 120, y = 10
-
 ```
 
 ```ts
+// Data
 let animals = [
     {name: 'Tibbers', type: 'cat', isNeutered: true, age: 2},
     {name: 'Fluffball', type: 'rabbit', isNeutered: false, age: 1},
     {name: 'Strawhat', type: 'cat', isNeutered: true, age: 5}
   ]
 
-// How old are all the animals combined?
-// 0 is the starting value and acts as the first acculmulator value
-// will return 8
+// What you need ?
+// Sum of animals age
+// 8
 
 let totalAge = animals.reduce((acculmulator, animal) => {
     return acculmulator + animal.age;
