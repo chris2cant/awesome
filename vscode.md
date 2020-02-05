@@ -53,7 +53,7 @@
 	}
 }
 ```
-
+ 
 ## VS Code Settings
 
 [settings.json](https://gist.github.com/chris2cant/e84a26a570932014711eed459353bbc3) (Christophe de Canteloube)
