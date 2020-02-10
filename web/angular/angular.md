@@ -52,6 +52,7 @@ export class MslFieldComponent implements OnInit {
 
 - [Angular Performance Checkelist](https://github.com/mgechev/angular-performance-checklist)
 - [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
+- [Guide Angular🇫🇷](https://guide-angular.wishtack.io/)
 
 ## Contributors
 
