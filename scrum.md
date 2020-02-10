@@ -32,6 +32,12 @@
 
 ## Retrospective
 
+### Support
+
+- Starfish
+- Speedboat
+- 4 Ls (**L**iked – **L**earned – **L**acked – **L**onged For)
+
 <a name="articles"/>
 
 ## Articles
