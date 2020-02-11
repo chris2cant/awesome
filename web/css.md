@@ -71,6 +71,7 @@
 ## Gradient
 
 - [UI Gradients](https://uigradients.com/#Timber) - Gradient generator
+- [Gradienta](https://gradienta.io/) - Gradient generator
 
 ## Conferences
 
