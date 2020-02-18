@@ -30,6 +30,7 @@
 - [Reading a Web Page using Apple Voice Over](https://medium.com/accessibility-a11y/reading-a-web-page-using-apple-voice-over-cd1a637e6285)
 - [The web accessibility basics](https://medium.com/@MarcoZehe/the-web-accessibility-basics-bec77236949e)
 - [Accessibility Statistics](https://www.interactiveaccessibility.com/accessibility-statistics)
+- [Accessibility guidelines for UX Designers](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be)
 
 ## 🙌 Contributors 
 
