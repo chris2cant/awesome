@@ -30,6 +30,7 @@
 - [Flexbox a complet guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flex Cheatsheet - css-tricks.com](https://yoksel.github.io/flex-cheatsheet/#flex-basis)
 - [Learning Game - Flexbox Froggy](http://flexboxfroggy.com)
+- [Flexbox — The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
 
 ## Grid
 
