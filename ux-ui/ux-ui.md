@@ -24,6 +24,7 @@
 ## Articles
 
 - [Tout le monde scroll :fr:](https://www.testapic.com/informations-pratiques/actualites/design-conception/tout-le-monde-scroll/)
+- [The 2019 UX Research Tools Map](https://www.userinterviews.com/blog/the-2019-ux-research-tools-map#.XlJIhok8gZM.linkedin)
 
 ## Links
 
