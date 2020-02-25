@@ -18,6 +18,7 @@
 
 ## Tools
 
+- [Design Valley - The Ultimate Design Tools Depository](https://www.designvalley.club/)
 - [Colorable](https://colorable.jxnblk.com/) - Color harmony between font & background color
 - [Leonardo Color](https://leonardocolor.io) - An open source contrast-based color generator
 
