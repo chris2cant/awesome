@@ -18,8 +18,8 @@
 
 ## Tools
 
-- [Design Valley - The Ultimate Design Tools Depository](https://www.designvalley.club/)
-- [Evernote.design - All in One Bookmark Links for Designer](http://www.evernote.design/)
+- [Design Valley](https://www.designvalley.club/) - The Ultimate Design Tools Depository
+- [Evernote.design](http://www.evernote.design/) - All in One Bookmark Links for Designer
 - [Colorable](https://colorable.jxnblk.com/) - Color harmony between font & background color
 - [Leonardo Color](https://leonardocolor.io) - An open source contrast-based color generator
 
