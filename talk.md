@@ -34,8 +34,8 @@ It's on 3 parts :
 ## 📓 Ressources
 
 - [Icons](https://gist.github.com/chris2cant/caef25fc43d87e39f38c645d97fb0421#icons)
-- [Undraw - Illustration
-](https://undraw.co/illustrations)
+- [Undraw](https://undraw.co/illustrations) - Illustration
+- [Design Valley](https://www.designvalley.club/category/5e41c508ef1089003d408b3a) - Presentation Tools
 
 ## 📦 Library
 
