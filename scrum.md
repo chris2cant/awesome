@@ -42,6 +42,7 @@
 
 ## Tools
 
+- [Pointing Poker](https://www.pointingpoker.com)
 - [La roue du chiffrage (Troll)](http://laroueduchiffrage.remilemonnier.fr/)
 
 ## Articles
