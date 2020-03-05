@@ -248,6 +248,10 @@ if (condition) {
 }
 ```
 
+## Tools
+
+- [Refactoring Guru](https://refactoring.guru/)
+
 ## Sources
 
 - [Coding like Shakespeare](https://dmitripavlutin.com/coding-like-shakespeare-practical-function-naming-conventions/)
