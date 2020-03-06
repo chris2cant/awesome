@@ -259,3 +259,4 @@ if (condition) {
 - [Data Structures Algorithms](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/blob/master/README.md)
 - [Clean code typescript](https://github.com/labs42io/clean-code-typescript/blob/master/README.md)
 - [Epita - Norme](https://www.lrde.epita.fr/~raph/docs/epita-css/norme-fr.pdf)
+- [Stop Using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
