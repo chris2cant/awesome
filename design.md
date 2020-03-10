@@ -40,6 +40,6 @@
 
 - [Videoplasty](https://videoplasty.com/) 💵
 
-## 🙌Contributors
+## 🙌 Contributors
 
 - Jules Mahé
