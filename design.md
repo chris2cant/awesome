@@ -9,6 +9,10 @@
 - [Icon Finder](https://www.iconfinder.com/)
 - [Icon Monstr](https://iconmonstr.com/)
 
+## Illustration
+
+-[Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library
+
 ## Images & Videos
 
 - [Pexels - Free stock photos & videos ](https://www.pexels.com/)
