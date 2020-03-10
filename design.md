@@ -11,7 +11,7 @@
 
 ## Illustration
 
--[Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library
+- [Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library
 
 ## Images & Videos
 
@@ -39,3 +39,7 @@
 ## Gifs
 
 - [Videoplasty](https://videoplasty.com/) 💵
+
+## 🙌Contributors
+
+- Jules Mahé
