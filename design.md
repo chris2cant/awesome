@@ -42,4 +42,4 @@
 
 ## 🙌 Contributors
 
-- Jules Mahé
+- [Jules Mahé](www.jmahe.com)
