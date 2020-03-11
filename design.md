@@ -18,6 +18,7 @@
 - [Pexels - Free stock photos & videos ](https://www.pexels.com/)
 - [Unsplash - Photos for Everyone](https://unsplash.com/)
 - [Gradienta](https://gradienta.io/) (Gradient Generator)
+- [Mixkit](https://mixkit.co/) - Free assets for your next video project
 
 ## Vectors
 
