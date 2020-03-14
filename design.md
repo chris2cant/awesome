@@ -20,6 +20,10 @@
 - [Gradienta](https://gradienta.io/) (Gradient Generator)
 - [Mixkit](https://mixkit.co/) - Free assets for your next video project
 
+## Musics
+
+- [Unminus](https://www.unminus.com/) - Royalty Free Music
+
 ## Vectors
 
 - [Vecteezy](https://www.vecteezy.com/)
