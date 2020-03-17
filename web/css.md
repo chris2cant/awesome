@@ -15,6 +15,7 @@
 - [CSS Matic - The ultimate CSS tools for web designers](https://www.cssmatic.com/)
 - [CSS Triggers](https://csstriggers.com/)
 - [Neumorphism Generator](https://neumorphism.io)
+- [Typography Generator](https://codyhouse.co/ds/globals/typography)
 
 ## Challenge online
 
