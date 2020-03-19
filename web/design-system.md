@@ -31,6 +31,13 @@
 - [Retrospective: a year and a half creating a library of components for mobile apps](https://medium.com/@gereec_t/retrospective-a-year-and-a-half-creating-a-library-of-components-for-mobile-apps-87a460487c9b)
 - [The People of Veriff: Measuring the Impact of a Design System](https://www.veriff.com/veriff-times/measuring-impact-design-system?utm_campaign=Design%2BSystems%2BWeekly&utm_medium=email&utm_source=Design_Systems_Weekly_92)
 - [Reimagining Design Systems at Spotify](https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/)
+- [Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)
+- [Create your design system, part 2: Grid & Layout](https://medium.com/codyhouse/create-your-design-system-part-2-grid-layout-aa961d59b8d6)
+- [Create your design system, part 3: Colors
+](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f)
+- [Create your design system, part 4: Spacing](https://medium.com/codyhouse/create-your-design-system-part-4-spacing-895c9213e2b9)
+- [Create your design system, part 5: Icons](https://medium.com/codyhouse/create-your-design-system-part-5-icons-594f39cfb1b)
+- [Create your design system, part 6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
 
 ### Invision
 
