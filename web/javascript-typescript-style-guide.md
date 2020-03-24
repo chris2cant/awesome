@@ -32,6 +32,18 @@ canEvaluate, canEdit, canRead
 numberOfUsers, numberOfCars, numberOfItems, numberOfMessages, numberOfTickets
 ```
 
+#### List of ids
+
+- Why ? : A list of ids (plural), each belonging to a single user (singular)
+
+```javascript
+// Recommanded
+userIds
+
+// Avoid
+usersId
+```
+
 ### Function
 
 #### Computed
