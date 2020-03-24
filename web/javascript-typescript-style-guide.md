@@ -39,7 +39,9 @@ numberOfUsers, numberOfCars, numberOfItems, numberOfMessages, numberOfTickets
 ```javascript
 // Recommanded
 userIds
+```
 
+```javascript
 // Avoid
 usersId
 ```
