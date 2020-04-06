@@ -83,6 +83,7 @@ A list of git tools :
 - [Gitflow](https://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html)
 - [Oneflow CLI](https://github.com/Workable/oneflow)
 - [Gitmoji](https://gitmoji.carloscuesta.me/)
+- [Repo Surf](https://repo.surf) - Funny visual animation of your commits. Usage : `https://repo.surf/<org/user>/<repo>`
 
 <a name="versioning"/>
 
