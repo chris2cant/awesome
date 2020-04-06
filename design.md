@@ -12,6 +12,7 @@
 ## Illustration
 
 - [Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library
+- [Many Pixels](https://www.manypixels.co/gallery/) - Customizable Illustration
 
 ## Images & Videos
 
@@ -48,3 +49,4 @@
 ## 🙌 Contributors
 
 - [Jules Mahé](www.jmahe.com)
+
