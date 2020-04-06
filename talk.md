@@ -60,3 +60,4 @@ It's on 3 parts :
 - Christophe de Canteloube
 - Oussama Hafferssas
 - Arielle Valdelievre
+- Vincent Trastour
