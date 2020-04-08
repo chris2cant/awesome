@@ -6,3 +6,4 @@
 - [Draw.io](https://www.draw.io/)
 - [AWW](https://awwapp.com)
 - [Miro](https://miro.com/)
+- [Remote collaboration made simple](https://mural.co/)
