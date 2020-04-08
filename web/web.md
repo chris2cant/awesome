@@ -12,7 +12,8 @@
 - [Snowpack](https://www.snowpack.dev/) - Build web applications with less tooling and 10x faster iteration.
 - [Danger](https://danger.systems/js/) Automate common code review chores
 - [Newbot](https://newbot.io/) - Chatbot Framework
-
+- [HTML Dom](https://htmldom.dev/) - How to manage HTML DOM
+ 
 ## Optimisation
 
 - [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
