@@ -22,6 +22,7 @@
 - [Evernote.design](http://www.evernote.design/) - All in One Bookmark Links for Designer
 - [Colorable](https://colorable.jxnblk.com/) - Color harmony between font & background color
 - [Leonardo Color](https://leonardocolor.io) - An open source contrast-based color generator
+- [Design Critique Cards](https://www.designcritiquecards.com/)
 
 ## Articles
 
