@@ -47,6 +47,10 @@
 
 - [Videoplasty](https://videoplasty.com/) 💵
 
+## Tools 
+
+- [SVG OMG](https://jakearchibald.github.io/svgomg/) - Optimise your SVG
+
 ## 🙌 Contributors
 
 - [Jules Mahé](www.jmahe.com)
