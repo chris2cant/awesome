@@ -91,6 +91,7 @@
 - [FluidTransitions React](https://github.com/fram-x/FluidTransitions)
 - [Space in Design System](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [Understanding CSS: Selector Specificity](https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59)
+- [Every Layout](https://every-layout.dev/layouts/stack/) - CSS Tricks
 
 ## 🙌 Contributors
 
