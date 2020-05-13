@@ -5,11 +5,6 @@
 - editor.tabSize : `2`
 - git.inputValidationSubjectLength: `100`
 
-## Personal choice
-
-- workbench.editor.showTabs: `false` (Warning : Disable tabs navigation)
-- explorer.autoReveal: `false` (Disable explorer autoscroll to source on file focus)
-
 ## Prettier - Code formatter
 
 - prettier.singleQuote : `true`
@@ -57,3 +52,8 @@
 ## VS Code Settings
 
 [settings.json](https://gist.github.com/chris2cant/e84a26a570932014711eed459353bbc3) (Christophe de Canteloube)
+
+## Personal choice
+
+- workbench.editor.showTabs: `false` (Warning : Disable tabs navigation)
+- explorer.autoReveal: `false` (Disable explorer autoscroll to source on file focus)
