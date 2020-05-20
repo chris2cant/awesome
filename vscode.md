@@ -26,6 +26,7 @@
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
 ### Theme
 
