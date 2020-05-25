@@ -12,7 +12,8 @@
 - [Learn Storybook - Design System](https://www.learnstorybook.com/design-systems-for-developers/)
 - [Product Design Tips](https://productdesign.tips/)
 - [Lona by Airbnb](https://github.com/airbnb/Lona)
-- [Theo by Salesforce](https://github.com/salesforce-ux/theo)
+- [Theo by Salesforce](https://github.com/salesforce-ux/theo) - Design Token Generator
+- [Style Dictionary](https://amzn.github.io/style-dictionary/#/) - Design Token Generator
 - [Webflow](https://webflow.com/)
 - [Design System - CLI](https://intuit.github.io/design-systems-cli/#/)
 - [Radius](https://rangle.io/radius) - A Design System Accelerator
