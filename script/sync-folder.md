@@ -13,7 +13,7 @@ rsync -avu origin/ destination/
 
 ### Sync two folders (⚠️ with delete missing files)
 
-```
+```sh
 # -a Do the sync preserving all filesystem attributes
 # -v run verbosely
 # -u only copy files with a newer modification time (or size difference if the times are equal)
