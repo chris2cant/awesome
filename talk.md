@@ -46,11 +46,13 @@ It's on 3 parts :
 
 ## 🎥 Videos
 
+- [Start With Why - Simon Sinek - TED Talk Short Edited](https://www.youtube.com/watch?v=IPYeCltXpxw)
+- [Start with Why - Simon Sinek - Animated book summary](https://www.youtube.com/watch?v=Wb8KpHqU5tg)
 - [Essential Design Principles - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/802/)
 - [How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork](https://www.youtube.com/watch?v=8S0FDjFBj8o)
 - [How to avoid death By PowerPoint | David JP Phillips | TEDxStockholmSalon](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
 - [The 110 techniques of communication and public speaking | David JP Phillips | TEDxZagreb](https://youtu.be/K0pxo-dS9Hc)
-- [Simon Sinek - Start With Why - TED Talk Short Edited](https://www.youtube.com/watch?v=IPYeCltXpxw)
+
 - [Flat Letter Animation in PowerPoint - Motion Graphics Tutorial - Part 2](https://www.youtube.com/watch?v=Y_quDjJ2Uzg&feature=youtu.be)
 
 ## 🛠Accessories
