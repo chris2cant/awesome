@@ -8,6 +8,10 @@
 
 - [JSPerf - IF vs Switch vs Lookup Table](https://jsperf.com/if-switch-lookup-table/10)
 
+## Articles
+
+- [Pattern SAM](https://sam.js.org/) - State-Action-Model
+
 ## Conferences
 
 - [DotJS 2019 - Paris](https://www.dotconferences.com/conference/dotjs-2019)
