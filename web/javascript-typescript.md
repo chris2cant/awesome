@@ -8,7 +8,7 @@
 
 - [JSPerf - IF vs Switch vs Lookup Table](https://jsperf.com/if-switch-lookup-table/10)
 
-## Articles
+## Ressources
 
 - [Pattern SAM](https://sam.js.org/) - State-Action-Model
 
