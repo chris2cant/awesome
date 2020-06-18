@@ -30,6 +30,7 @@ It's on 3 parts :
 - [Prezi](www.prezi.com)
 - [Google Slides](https://www.google.com/slides/about/)
 - [Slides](https://slides.com)
+- [Paste](https://pasteapp.com) - By Wetransfert
 
 ## 📓 Ressources
 
