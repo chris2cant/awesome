@@ -8,6 +8,10 @@
 
 - [JSPerf - IF vs Switch vs Lookup Table](https://jsperf.com/if-switch-lookup-table/10)
 
+## NPM Packages
+
+- [Elevator.js](http://tholman.com/elevator.js/) - fixes those awkward "scroll to top" moments the old fashioned way.
+
 ## Ressources
 
 - [Pattern SAM](https://sam.js.org/) - State-Action-Model
