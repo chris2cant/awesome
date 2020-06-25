@@ -7,19 +7,27 @@
 
 ## Tools
 
-- [Design System - Checklist](https://designsystemchecklist.com/)
-- [Design System - Trello Checklist](https://trello.com/templates/design/design-system-checklist-yZn5VFoN)
+- Design Token Generator
+  - [Theo by Salesforce](https://github.com/salesforce-ux/theo) - Design Token Generator
+  - [Style Dictionary](https://amzn.github.io/style-dictionary/#/) - Design Token Generator
+- Component naming
+  - [UI Guideline](https://www.uiguideline.com/)
+  - [Component Name Matrix](https://open-ui.org/analysis/component-matrix)
+- Checklist
+  - [Design System - Checklist](https://designsystemchecklist.com/)
+  - [Design System - Trello Checklist](https://trello.com/templates/design/design-system-checklist-yZn5VFoN)
 - [Learn Storybook - Design System](https://www.learnstorybook.com/design-systems-for-developers/)
 - [Product Design Tips](https://productdesign.tips/)
-- [Lona by Airbnb](https://github.com/airbnb/Lona)
-- [Theo by Salesforce](https://github.com/salesforce-ux/theo) - Design Token Generator
-- [Style Dictionary](https://amzn.github.io/style-dictionary/#/) - Design Token Generator
+- Design System Generator
+  - [Lona by Airbnb](https://github.com/airbnb/Lona) - Collection of tools for building design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts
+  - [Design System - CLI](https://intuit.github.io/design-systems-cli/#/)
 - [Webflow](https://webflow.com/)
-- [Design System - CLI](https://intuit.github.io/design-systems-cli/#/)
 - [Radius](https://rangle.io/radius) - A Design System Accelerator
-- [Component Name Matrix](https://open-ui.org/analysis/component-matrix)
 - [Inclusive Component](https://inclusive-components.design/)
 - [Specify](https://specifyapp.com/) - All-in-one tool for design systems
+
+### Component Name
+
 
 ## Framework
 
