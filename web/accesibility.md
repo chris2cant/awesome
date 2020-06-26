@@ -32,6 +32,41 @@
 - [Accessibility Statistics](https://www.interactiveaccessibility.com/accessibility-statistics)
 - [Accessibility guidelines for UX Designers](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be)
 
+## Guide lines
+
+### Disabled
+
+This isn’t an effective way to disable a form field because it only affects **pointer events**. Users can still interact with the element if navigating using a **keyboard**.
+
+🛑Don't
+
+```html
+<style>
+    .disabled { 
+        cursor: not-allowed;
+        pointer-events: none;
+    }
+</style>
+
+<form>
+    <button class="disabled">Submit</button>
+</form>
+```
+
+✅Do 
+
+```html
+<style>
+    [disabled] { 
+        cursor: not-allowed;
+    }
+</style>
+
+<form>
+    <button disabled>Submit</button>
+</form>
+```
+
 ## 🙌 Contributors 
 
 - Yann Duval
