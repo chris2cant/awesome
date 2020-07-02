@@ -42,6 +42,8 @@ Thanks to all the contributors who made me discover incredible things !
 - [Fun](/fun.md)
 - [Iphone](/iphone.md) (Tips)
 - [Chart](/chart.md)
+- Communities
+ - [top50slack](https://www.top50slack.com/#get)
 
 ## Personal Codepen 
 
