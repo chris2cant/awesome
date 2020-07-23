@@ -12,6 +12,7 @@ Thanks to all the contributors who made me discover incredible things !
 - [Git (Commands & Tips)](/git.md)
 - [VSCode](/vscode.md)
 - [Unix Terminal 🖥](/unix-terminal.md)
+  - [Remove duplicated files 🗑](/script/remove-duplicated-files.md)
   - [Sync Folder ↔️](/script/sync-folder.md)
 - [Web 🌎](/web/web.md)
   - [Design System](/web/design-system.md)
