@@ -12,7 +12,7 @@ Thanks to all the contributors who made me discover incredible things !
 - [Git (Commands & Tips)](/git.md)
 - [VSCode](/vscode.md)
 - [Unix Terminal 🖥](/unix-terminal.md)
-  - [Sync Folder ↔️](/sync-folder.md)
+  - [Sync Folder ↔️](/script/sync-folder.md)
 - [Web 🌎](/web/web.md)
   - [Design System](/web/design-system.md)
   - [Javascript & Typescript](/web/javascript-typescript.md)
