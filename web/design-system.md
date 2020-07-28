@@ -2,7 +2,7 @@
 
 ## Gallery
 
-- [Adele - UXPin](https://adele.uxpin.com/)
+- [Adele](https://adele.uxpin.com/) - The repository of publicly available design systems and pattern libraries
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems)
 
 ## Tools
