@@ -13,6 +13,7 @@
 - [Danger](https://danger.systems/js/) Automate common code review chores
 - [Newbot](https://newbot.io/) - Chatbot Framework
 - [HTML Dom](https://htmldom.dev/) - How to manage HTML DOM
+- [Docsify](https://docsify.js.org/#/) - A magical documentation site generator.
  
 ## Optimisation
 
