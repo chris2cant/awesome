@@ -39,20 +39,6 @@
 
 This isn’t an effective way to disable a form field because it only affects **pointer events**. Users can still interact with the element if navigating using a **keyboard**.
 
-🛑Don't
-
-```html
-<style>
-    .disabled { 
-        cursor: not-allowed;
-        pointer-events: none;
-    }
-</style>
-
-<form>
-    <button class="disabled">Submit</button>
-</form>
-```
 
 ✅Do 
 
@@ -65,6 +51,21 @@ This isn’t an effective way to disable a form field because it only affects **
 
 <form>
     <button disabled>Submit</button>
+</form>
+```
+
+🛑Don't
+
+```html
+<style>
+    .disabled { 
+        cursor: not-allowed;
+        pointer-events: none;
+    }
+</style>
+
+<form>
+    <button class="disabled">Submit</button>
 </form>
 ```
 
