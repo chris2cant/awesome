@@ -24,11 +24,11 @@
 ### Get number of files by types
 
 ```sh
-# find ./src -type f : Get all files
+# find . -type f : Get all files (Location "." )
 # sed 's/.*\.//' : Get only the extension
 # sort : sorting
 # uniq -c : Get uniq with -c for the counter 
-find ./src -type f | sed 's/.*\.//' | sort | uniq -c
+find . -type f | sed 's/.*\.//' | sort | uniq -c
 # Result
 #  19 scss
 #   7 svg
