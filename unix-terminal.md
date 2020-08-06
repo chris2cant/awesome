@@ -29,6 +29,10 @@
 # sort : sorting
 # uniq -c : Get uniq with -c for the counter 
 find ./src -type f | sed 's/.*\.//' | sort | uniq -c
+# Result
+#  19 scss
+#   7 svg
+#  91 ts
 ```
 
 ## Articles
