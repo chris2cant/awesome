@@ -19,6 +19,18 @@
 - [thefuck - Corrects errors in previous console commands](https://github.com/nvbn/thefuck)
 - [multitail](https://www.vanheusden.com/multitail/)
 
+## Commands
+
+### Get number of files by types
+
+```sh
+// find ./src -type f : Get all files
+// sed 's/.*\.//' : Get only the extension
+// sort : sorting
+// uniq -c : Get uniq with -c for the counter 
+find ./src -type f | sed 's/.*\.//' | sort | uniq -c
+```
+
 ## Articles
 
 - [iTerm 2 + fish + fisherman + Material Design + Meslo](https://gist.github.com/ghaiklor/5c393e1c27cab79a9258)
