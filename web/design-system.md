@@ -1,11 +1,11 @@
-# Design System
+# 🌟Design System🌟
 
-## Gallery
+## 🖼Gallery
 
 - [Adele](https://adele.uxpin.com/) - The repository of publicly available design systems and pattern libraries
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems)
 
-## Tools
+## 🛠Tools
 
 - Design Token Generator
   - [Theo by Salesforce](https://github.com/salesforce-ux/theo) - Design Token Generator
@@ -47,7 +47,7 @@
 
 - [Design Tokens beyond colors, typography, and spacing.](https://badootech.badoo.com/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228)
 
-## Articles
+## 🗞Articles
 
 - [Nathan Curtis - Medium :star:](https://medium.com/@nathanacurtis)
 - [Audrey Hacq - Medium :star:](https://medium.com/@audreyhacq)
