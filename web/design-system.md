@@ -1,11 +1,11 @@
-# 🌟Design System🌟
+# 🌟 Design System 🌟
 
-## 🖼Gallery
+## 🖼 Gallery
 
 - [Adele](https://adele.uxpin.com/) - The repository of publicly available design systems and pattern libraries
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems)
 
-## 🛠Tools
+## 🛠 Tools
 
 - Design Token Generator
   - [Theo by Salesforce](https://github.com/salesforce-ux/theo) - Design Token Generator
@@ -47,7 +47,11 @@
 
 - [Design Tokens beyond colors, typography, and spacing.](https://badootech.badoo.com/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228)
 
-## 🗞Articles
+### Invision
+
+- [Designers and developers, these new DSM features are for you. Both of you.](https://www.invisionapp.com/inside-design/dsm-new-features/)
+
+## 🗞 Articles
 
 - [Nathan Curtis - Medium :star:](https://medium.com/@nathanacurtis)
 - [Audrey Hacq - Medium :star:](https://medium.com/@audreyhacq)
@@ -62,7 +66,3 @@
 - [Create your design system, part 4: Spacing](https://medium.com/codyhouse/create-your-design-system-part-4-spacing-895c9213e2b9)
 - [Create your design system, part 5: Icons](https://medium.com/codyhouse/create-your-design-system-part-5-icons-594f39cfb1b)
 - [Create your design system, part 6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
-
-### Invision
-
-- [Designers and developers, these new DSM features are for you. Both of you.](https://www.invisionapp.com/inside-design/dsm-new-features/)
