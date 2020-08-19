@@ -66,3 +66,4 @@
 - [Create your design system, part 4: Spacing](https://medium.com/codyhouse/create-your-design-system-part-4-spacing-895c9213e2b9)
 - [Create your design system, part 5: Icons](https://medium.com/codyhouse/create-your-design-system-part-5-icons-594f39cfb1b)
 - [Create your design system, part 6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
+- [The design system encyclopedia](https://medium.com/@jon.moore/the-design-system-encyclopedia-91670b838c9f)
