@@ -35,6 +35,12 @@ find . -type f | sed 's/.*\.//' | sort | uniq -c
 #  91 ts
 ```
 
+### Chmod +x on Windows
+
+```sh
+git update-index --chmod=+x myScript.sh
+```
+
 ## Articles
 
 - [iTerm 2 + fish + fisherman + Material Design + Meslo](https://gist.github.com/ghaiklor/5c393e1c27cab79a9258)
