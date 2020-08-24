@@ -30,6 +30,7 @@
   - [Specify](https://specifyapp.com/) - All-in-one tool for design systems
   - [Zeroheight](https://www.zeroheight.com/)
   - [Gitbook](https://www.gitbook.com/) - Document Everything! For you, your users and your team
+- [DesignFriendly](https://superfriendlydesign.systems/tools/) - Tools
 
 ## Sketch
 
