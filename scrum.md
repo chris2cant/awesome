@@ -12,6 +12,7 @@
 ## Tools
 
 - [Timer](http://design.giannipolito.fr/timer/)
+- [Poker cards](http://design.giannipolito.fr/poker) - Web Mobile
 
 
 <a name="daily-meeting"/>
