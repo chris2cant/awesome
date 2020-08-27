@@ -26,6 +26,7 @@
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Current Line Blame
 - Schema
 	- [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 	- [Sequence Diagrams](https://marketplace.visualstudio.com/items?itemName=AleksandarDev.vscode-sequence-diagrams)
