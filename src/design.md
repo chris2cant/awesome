@@ -8,12 +8,16 @@
 - [The Noun Project](https://thenounproject.com/)
 - [Icon Finder](https://www.iconfinder.com/)
 - [Icon Monstr](https://iconmonstr.com/)
+- [Shape](https://shape.so/) - icons and illustrations
+fully customizable
 
 ## Illustration
 
 - [Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library
 - [Many Pixels](https://www.manypixels.co/gallery/) - Customizable Illustration
 - [Undraw](https://undraw.co/illustrations)
+- [Shape](https://shape.so/) - icons and illustrations
+fully customizable
 
 ## Images & Videos
 
