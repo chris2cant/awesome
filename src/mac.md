@@ -4,4 +4,4 @@
 
 ## 🙌 Contributors
 
-- Jean-Christophe Queval-Bourgeos
+- Jean-Christophe Queval-Bourgeois
