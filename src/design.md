@@ -58,4 +58,5 @@ fully customizable
 ## 🙌 Contributors
 
 - [Jules Mahé](www.jmahe.com)
+- Jean-Christophe Queval-Bourgeois
 
