@@ -17,6 +17,7 @@
 - [Neumorphism Generator](https://neumorphism.io)
 - [Typography Generator](https://codyhouse.co/ds/globals/typography)
 - [CSS Stats](https://cssstats.com/) - Audit - Analytics and visualizations for your stylesheets
+- [Screen Sizes](https://screensiz.es/ipad-mini) - All devices size
 
 ### Articles
 
