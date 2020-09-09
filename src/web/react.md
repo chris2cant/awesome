@@ -1,5 +1,9 @@
 # React
 
+## Animation
+
+- [Framer Motion](https://www.framer.com/motion/) - Motion library for React
+
 ## State management
 
 - [Zustand](https://github.com/react-spring/zustand)
