@@ -19,6 +19,7 @@ Thanks to all the contributors who made me discover incredible things !
   - [Javascript & Typescript](/src/web/javascript-typescript.md)
     - [Javascript & Typescript - Style Guide](/src/web/javascript-typescript-style-guide.md)
     - [Array Functions - JS/TS](/src/web/array.md)
+  - [React](/src/web/react.md)
   - Angular
     - [Angular](/src/web/angular/angular.md)
     - [Angular - Storybook Guide](/src/web/angular/angular-storybook.md)
