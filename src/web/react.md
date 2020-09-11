@@ -3,6 +3,7 @@
 ## 💫 Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Motion library for React
+- [React Slick](https://github.com/akiran/react-slick) - Carousel component built with React
 
 ## 💾 State management
 
@@ -12,3 +13,4 @@
 ## 🙌 Contributors 
 
 - Yann Duval
+- Gabriel Lebaudy
