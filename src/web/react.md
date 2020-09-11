@@ -7,7 +7,7 @@
 
 ## 💾 State management
 
-- [Zustand](https://github.com/react-spring/zustand)
+- [Zustand](https://github.com/react-spring/zustand) - Zustand is pronounced "tsoostand" and means "state" in German.
 - [Recoil](https://recoiljs.org/) - A state management library for React
 
 ## 🙌 Contributors 
