@@ -7,9 +7,11 @@
 
 ## 🛠 Tools
 
-- Design Token Generator
-  - [Theo by Salesforce](https://github.com/salesforce-ux/theo) - Design Token Generator
-  - [Style Dictionary](https://amzn.github.io/style-dictionary/#/) - Design Token Generator
+- Design Tokens
+  - [Duet - Design Tokens](https://www.duetds.com/tokens/)
+  - Generator
+    - [Theo by Salesforce](https://github.com/salesforce-ux/theo) - Design Token Generator
+    - [Style Dictionary](https://amzn.github.io/style-dictionary/#/) - Design Token Generator
 - Component naming
   - [UI Guideline](https://www.uiguideline.com/)
   - [Component Name Matrix](https://open-ui.org/analysis/component-matrix)
