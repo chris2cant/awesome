@@ -8,6 +8,10 @@
 - [a11ymatters](https://www.a11ymatters.com) - Let's care more about web accessibility
 - [Accessibility checklist used by Duet’s core team](https://www.duetds.com/accessibility/)
 
+## Chrome extentions
+
+- [Axe](https://www.deque.com/axe/) - The Standard in Accessibility Testing
+
 ## Voice Over
 
 | Action | Command |
