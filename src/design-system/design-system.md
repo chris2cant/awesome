@@ -54,8 +54,9 @@
 
 - [Designers and developers, these new DSM features are for you. Both of you.](https://www.invisionapp.com/inside-design/dsm-new-features/)
 
-## 🗞 Articles
+## 🗞 Articles / Videos
 
+- [Design System Talks](https://www.designsystemtalks.com/) - 
 - [Nathan Curtis - Medium :star:](https://medium.com/@nathanacurtis)
 - [Audrey Hacq - Medium :star:](https://medium.com/@audreyhacq)
 - [Stack mirroring: Designing for code and coding for design](https://www.designsystems.com/stack-mirroring-designing-for-code-and-coding-for-design/)
