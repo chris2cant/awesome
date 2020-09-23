@@ -43,7 +43,7 @@
 
 ### Disabled
 
-Use `user-select: none` to disable. Don`t use `pointer-events: none` because the users can still interact with the element if navigating using a **keyboard**.
+Use `user-select: none` to disable. Don't use `pointer-events: none` because the users can still interact with the element if navigating using a **keyboard**.
 
 ✅Do 
 
