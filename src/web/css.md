@@ -103,6 +103,7 @@
 - [Understanding CSS: Selector Specificity](https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59)
 - [Every Layout](https://every-layout.dev/layouts/stack/) - CSS Tricks
 - [Leading-Trim: The Future of Digital Typesetting](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
+- [Enhancing User Experience With CSS Animations](https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/)
 
 ## 🙌 Contributors
 
