@@ -43,8 +43,7 @@
 
 ### Disabled
 
-This isn’t an effective way to disable a form field because it only affects **pointer events**. Users can still interact with the element if navigating using a **keyboard**.
-
+Use `user-select: none` to disable. Don`t use `pointer-events: none` because the users can still interact with the element if navigating using a **keyboard**.
 
 ✅Do 
 
@@ -52,6 +51,7 @@ This isn’t an effective way to disable a form field because it only affects **
 <style>
     [disabled] { 
         cursor: not-allowed;
+        user-select: none;
     }
 </style>
 
@@ -64,7 +64,7 @@ This isn’t an effective way to disable a form field because it only affects **
 
 ```html
 <style>
-    .disabled { 
+    [disabled], .disabled { 
         cursor: not-allowed;
         pointer-events: none;
     }
