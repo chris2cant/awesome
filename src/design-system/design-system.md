@@ -12,6 +12,8 @@
   - Generator
     - [Theo by Salesforce](https://github.com/salesforce-ux/theo) - Design Token Generator
     - [Style Dictionary](https://amzn.github.io/style-dictionary/#/) - Design Token Generator
+    - [Diez](https://diez.org/) - The Design Token Framework
+    - [System UI](https://system-ui.com/)
 - Component naming
   - [UI Guideline](https://www.uiguideline.com/)
   - [Component Name Matrix](https://open-ui.org/analysis/component-matrix)
