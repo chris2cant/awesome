@@ -8,11 +8,12 @@
 
 - [JSPerf - IF vs Switch vs Lookup Table](https://jsperf.com/if-switch-lookup-table/10)
 
-## NPM Packages
+## 📦 NPM Packages
 
 - [Elevator.js](http://tholman.com/elevator.js/) - fixes those awkward "scroll to top" moments the old fashioned way.
+- [SVG to TS](https://www.npmjs.com/package/svg-to-ts)(Use your SVG with Typescript)
 
-## Chart
+## 📊 Chart
 
 - [D3JS](https://github.com/d3/d3)
 - [ChartJS](https://github.com/chartjs/Chart.js)
@@ -34,7 +35,3 @@
 - [DotJS 2014 - Paris](https://www.dotconferences.com/conference/dotjs-2014)
 - [DotJS 2013 - Paris](https://www.dotconferences.com/conference/dotjs-2013)
 - [DotJS 2012 - Paris](https://www.dotconferences.com/conference/dotjs-2012)
-
-## Librairies
-
-- [SVG to TS](https://www.npmjs.com/package/svg-to-ts)(Use your SVG with Typescript)
