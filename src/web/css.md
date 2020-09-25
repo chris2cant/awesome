@@ -19,10 +19,6 @@
 - [CSS Stats](https://cssstats.com/) - Audit - Analytics and visualizations for your stylesheets
 - [Screen Sizes](https://screensiz.es/ipad-mini) - All devices size
 
-### Articles
-
-- [Creating Utility Classes with Design Tokens using Sass](https://www.alwaystwisted.com/articles/creating-utility-classes-with-design-tokens-using-sass)
-
 ## Challenge online
 
 - [CSS Battle !](https://cssbattle.dev)
@@ -105,6 +101,8 @@
 - [Leading-Trim: The Future of Digital Typesetting](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
 - [Enhancing User Experience With CSS Animations](https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/)
 - [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css)
+- [Creating Utility Classes with Design Tokens using Sass](https://www.alwaystwisted.com/articles/creating-utility-classes-with-design-tokens-using-sass)
+- [Buttons shouldn’t have a hand cursor 👆](https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b#.b33l7fivt)
 
 ## 🙌 Contributors
 
