@@ -12,6 +12,14 @@
 
 - [Elevator.js](http://tholman.com/elevator.js/) - fixes those awkward "scroll to top" moments the old fashioned way.
 
+## Chart
+
+- [D3JS](https://github.com/d3/d3)
+- [ChartJS](https://github.com/chartjs/Chart.js)
+- React
+  - [Nivo](https://github.com/plouc/nivo)
+  - [Recharts](https://github.com/recharts/recharts)
+
 ## Ressources
 
 - [Pattern SAM](https://sam.js.org/) - State-Action-Model
