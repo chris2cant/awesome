@@ -75,3 +75,4 @@
 - [👆Create your design system, part 6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
 - [The design system encyclopedia](https://medium.com/@jon.moore/the-design-system-encyclopedia-91670b838c9f)
 - [♿️Scaling accessibility with a design system](https://gerireid.com/accessibility.html)
+- [How to approach theming a Design System](https://dev.to/danieldelcore/how-to-approach-theming-a-design-system-5829)
