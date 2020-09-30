@@ -47,6 +47,10 @@ Thanks to all the contributors who made me discover incredible things !
 - Communities
 - [top50slack](https://www.top50slack.com/#get)
 
+## Other
+
+- [Productivity Hack](https://productivity.so/all) - Keyboard shortcut and more to improve your productivity
+
 ## Personal Codepen
 
 - [Flexbox Examples](https://codepen.io/chris2cant/pen/EBedyj)
