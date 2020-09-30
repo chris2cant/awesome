@@ -104,6 +104,10 @@
 - [Creating Utility Classes with Design Tokens using Sass](https://www.alwaystwisted.com/articles/creating-utility-classes-with-design-tokens-using-sass)
 - [Buttons shouldn’t have a hand cursor 👆](https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b#.b33l7fivt)
 
+## Example
+
+- [Sémantique HTML](https://codepen.io/vincent-valentin/full/xbbBBR) - Codepen 
+
 ## 🙌 Contributors
 
 - Yann Duval
