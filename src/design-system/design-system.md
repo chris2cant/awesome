@@ -76,3 +76,4 @@
 - [The design system encyclopedia](https://medium.com/@jon.moore/the-design-system-encyclopedia-91670b838c9f)
 - [♿️Scaling accessibility with a design system](https://gerireid.com/accessibility.html)
 - [How to approach theming a Design System](https://dev.to/danieldelcore/how-to-approach-theming-a-design-system-5829)
+- [Driving Adoption of a Design System](https://segment.com/blog/driving-adoption-of-a-design-system/)
