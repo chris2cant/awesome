@@ -50,7 +50,7 @@
 
 ## Design Tokens
 
-- [Design Tokens beyond colors, typography, and spacing.](https://badootech.badoo.com/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228)
+- [Design Tokens beyond colors, typography, and spacing.](https://medium.com/bumble-tech/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228)
 - [Orbit - Design tokens](https://orbit.kiwi/design-tokens/)
 
 ### Invision
