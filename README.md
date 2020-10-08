@@ -46,6 +46,7 @@ Thanks to all the contributors who made me discover incredible things !
 - [Chart](/src/chart.md)
 - Communities
 - [top50slack](https://www.top50slack.com/#get)
+- [Français](/src/french.md)
 
 ## Other
 
