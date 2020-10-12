@@ -24,7 +24,8 @@ This guide follows the oneflow method. Everything in this guide merge my experie
 	- [:scissors: Squash commit](#squash-commit)
 	- [Show commit timestamp](#commit-timestamp)
 	- [Pull with auto stash](#pull-autostash)
-- [✨Remove deleted branches](#remove-deleted-branches)
+- [🗑Remove deleted branches](#remove-deleted-branches)
+- [🙂Gitmoji](#gitmoji)
 - [:pushpin: Pinned articles](#pinned-article)
 
 
@@ -396,7 +397,7 @@ git show -s --format=%ct
 
 <a name="remove-deleted-branches"/>
 
-### Remove deleted branches
+### 🗑Remove deleted branches
 
 ```sh
 # git branch -vv : list local branches and information about remote branches ("gone” if it's deleted)
@@ -407,9 +408,9 @@ git show -s --format=%ct
 git branch -vv | grep ': gone]' | grep -v "\*" | awk '{print $1}' | xargs git branch -D
 ```
 
-<a name="pinned-article"/>
+<a name="gitmoji"/>
 
-## Gitmoji
+## 🙂 Gitmoji
 
 | Icon | Icon                        | Description                                           |
 | ---- | --------------------------- | ----------------------------------------------------- |
@@ -473,6 +474,8 @@ git branch -vv | grep ': gone]' | grep -v "\*" | awk '{print $1}' | xargs git br
 | 🥅   | `:goal_net:`                  | Catch errors                                          |
 | 💫   | `:dizzy:`                     | Add or update animations and transitions              |
 | 🗑    | `:wastebasket:`               | Deprecate code that needs to be cleaned up            |
+
+<a name="pinned-article"/>
 
 ## :pushpin: Pinned articles
 
