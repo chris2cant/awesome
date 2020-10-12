@@ -1,4 +1,4 @@
-# 🇫🇷Français
+# 🇫🇷 Français
 
 - Nou**rr**ir prend 2 `r` car tu te nourris plusieurs fois
 - Mou**r**ir prend 1 `r` car on ne meurt qu'une fois
