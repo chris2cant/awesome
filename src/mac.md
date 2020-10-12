@@ -2,6 +2,13 @@
 
 - [Plash](https://apps.apple.com/fr/app/plash/id1494023538?mt=12) - Make any website your desktop wallpaper.
 
+## Shortcuts
+
+|Shortcut|Description|
+|---|---|
+|Screen shot on clipboard|`Ctrl`+`⌥`+`Maj`+`4`|
+|Switch windows inside same space|`Ctrl`+`F4` (You can customise to `⌥``⇥`)|
+
 ## Custom defaults
 
 ### Autohide dock time
