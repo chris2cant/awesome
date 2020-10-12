@@ -7,7 +7,7 @@
 |Shortcut|Description|
 |---|---|
 |Screen shot on clipboard|`Ctrl`+`⌥`+`Maj`+`4`|
-|Switch windows inside same space|`Ctrl`+`F4` (You can customise to `⌥``⇥`)|
+|Switch windows inside same space|`Ctrl`+`F4` (You can customise to `⌥` `⇥`)|
 
 ## Custom defaults
 
