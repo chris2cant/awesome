@@ -47,6 +47,7 @@ Thanks to all the contributors who made me discover incredible things !
 - Communities
 - [top50slack](https://www.top50slack.com/#get)
 - [Français](/src/french.md)
+- [👨‍💻Mac](/src/mac.md)
 
 ## Other
 
