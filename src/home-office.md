@@ -1,8 +1,9 @@
 # 🏡 Home office
 
-## Tools
+## Setup your desk
 
 - [Ergonomic Desk Height Calculator](http://www.ergotron.com/tools/workspace-planner)
+- [📹 Ergonomics Expert Explains How to Set Up Your Desk](https://youtu.be/F8_ME4VwTiw)
 
 ## 📄 Articles
 
