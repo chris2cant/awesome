@@ -24,9 +24,10 @@ This guide follows the oneflow method. Everything in this guide merge my experie
 	- [:scissors: Squash commit](#squash-commit)
 	- [Show commit timestamp](#commit-timestamp)
 	- [Pull with auto stash](#pull-autostash)
-- [🗑Remove deleted branches](#remove-deleted-branches)
-- [🙂Gitmoji](#gitmoji)
-- [:pushpin: Pinned articles](#pinned-article)
+- [🗑 Remove deleted branches](#remove-deleted-branches)
+- [🙂 Gitmoji](#gitmoji)
+- [🛠 Tools](#tools)
+- [📌 Pinned articles](#pinned-article)
 
 
 <a name="config"/>
@@ -475,9 +476,15 @@ git branch -vv | grep ': gone]' | grep -v "\*" | awk '{print $1}' | xargs git br
 | 💫   | `:dizzy:`                     | Add or update animations and transitions              |
 | 🗑    | `:wastebasket:`               | Deprecate code that needs to be cleaned up            |
 
+<a name="tools"/>
+
+## 🛠 Tools
+
+- [Refined Github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+
 <a name="pinned-article"/>
 
-## :pushpin: Pinned articles
+## 📌 Pinned articles
 
 - [OneFlow - a Git branching model and workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
 - [Show Emoji in Git Log!](https://ahmadawais.com/show-emoji-git-log/)
