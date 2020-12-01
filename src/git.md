@@ -26,7 +26,6 @@ This guide follows the oneflow method. Everything in this guide merge my experie
 	- [Pull with auto stash](#pull-autostash)
 - [🗑 Remove deleted branches](#remove-deleted-branches)
 - [🙂 Gitmoji](#gitmoji)
-- [🛠 Tools](#tools)
 - [📌 Pinned articles](#pinned-article)
 
 
@@ -86,6 +85,7 @@ A list of git tools :
 - [Oneflow CLI](https://github.com/Workable/oneflow)
 - [Gitmoji](https://gitmoji.carloscuesta.me/)
 - [Repo Surf](https://repo.surf) - Funny visual animation of your commits. Usage : `https://repo.surf/<org/user>/<repo>`
+- [Refined Github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
 
 <a name="versioning"/>
 
@@ -475,12 +475,6 @@ git branch -vv | grep ': gone]' | grep -v "\*" | awk '{print $1}' | xargs git br
 | 🥅   | `:goal_net:`                  | Catch errors                                          |
 | 💫   | `:dizzy:`                     | Add or update animations and transitions              |
 | 🗑    | `:wastebasket:`               | Deprecate code that needs to be cleaned up            |
-
-<a name="tools"/>
-
-## 🛠 Tools
-
-- [Refined Github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
 
 <a name="pinned-article"/>
 
