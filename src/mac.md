@@ -24,6 +24,10 @@ defaults delete com.apple.dock autohide-time-modifier; killall Dock;
 
 - [How to Set Up Your MacBook for Web Development in 2020](https://link.medium.com/KpPitCwXE9)
 
+## Accessories
+
+- [Twelve South](https://www.twelvesouth.com)
+
 ## 🙌 Contributors
 
 - Jean-Christophe Queval-Bourgeois
