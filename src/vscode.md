@@ -21,6 +21,7 @@
 - [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 - [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) (Syntax highlighting in es6 multiline strings)
 - [CSS Flexbox Cheatsheet](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet)
+- [Dotenv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Current Line Blame
 - [Gitmoji](https://marketplace.visualstudio.com/items?itemName=Vtrois.gitmoji-vscode) - Emoji for commit message
 - [Jenkinsfile support](https://marketplace.visualstudio.com/items?itemName=secanis.jenkinsfile-support)
