@@ -25,6 +25,7 @@ Thanks to all the contributors who made me discover incredible things !
     - [Angular - Storybook Guide](/src/web/angular/angular-storybook.md)
     - [Angular - Testing](/src/web/angular/angular-testing.md)
     - [Angular - Schematics](/src/web/angular/angular-schematics.md)
+  - [Svelte](/src/web/svelte.md)
   - [Storybook](/src/web/storybook/storybook.md)
   - [Style - CSS/SCSS/JSS/...](/src/web/css.md)
     - [CSS - Styleguide](/src/web/css-styleguide.md)
