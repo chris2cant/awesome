@@ -14,4 +14,18 @@
 .button--disabled {}
 .button--primary {}
 .button--primary-inverted {}
-````
+```
+
+```html
+<button class="button button--primary button--disabled">
+  Submit
+</button>
+```
+
+- [ABEM](https://css-tricks.com/abem-useful-adaptation-bem/)
+
+```html
+<button class="button -primary -disabled">
+  Submit
+</button>
+```
