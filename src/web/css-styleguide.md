@@ -34,7 +34,6 @@
 .button.-disabled {}
 .button.-primary {}
 .button.-primary-inverted {}
-
 ```
 
 ```html
