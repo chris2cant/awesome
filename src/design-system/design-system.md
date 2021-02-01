@@ -17,6 +17,7 @@
 - Component naming
   - [UI Guideline](https://www.uiguideline.com/)
   - [Component Name Matrix](https://open-ui.org/analysis/component-matrix)
+- [Colornames](https://colornames.org/) - Name all the colors
 - Checklist
   - [Design System - Checklist](https://designsystemchecklist.com/)
   - [Design System - Trello Checklist](https://trello.com/templates/design/design-system-checklist-yZn5VFoN)
