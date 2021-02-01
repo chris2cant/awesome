@@ -41,6 +41,15 @@ find . -type f | sed 's/.*\.//' | sort | uniq -c
 git update-index --chmod=+x myScript.sh
 ```
 
+### Watch on shell command
+
+```sh
+# -d : Highlight the differences between successive updates. The --cumulative option makes highlighting "sticky", presenting a running display 
+# -n : Interval in seconds
+# watch -d -n 0.1 YOUR COMMAND
+watch -d -n 0.1 ls -l
+```
+
 ## Articles
 
 - [iTerm 2 + fish + fisherman + Material Design + Meslo](https://gist.github.com/ghaiklor/5c393e1c27cab79a9258)
