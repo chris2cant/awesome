@@ -40,6 +40,7 @@ It's on 3 parts :
 - [Many Pixels](https://www.manypixels.co/gallery/) - Custom Illustrations
 - [Slidesgo](https://slidesgo.com/) - Template Powerpoint and Google drive
 - [Mentimeter](https://www.mentimeter.com/) - Live form
+- [Graphue](https://graphue.com/)
 
 ## 📦 Library
 
