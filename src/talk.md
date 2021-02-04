@@ -54,7 +54,7 @@ It's on 3 parts :
 - [How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork](https://www.youtube.com/watch?v=8S0FDjFBj8o)
 - [How to avoid death By PowerPoint | David JP Phillips | TEDxStockholmSalon](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
 - [The 110 techniques of communication and public speaking | David JP Phillips | TEDxZagreb](https://youtu.be/K0pxo-dS9Hc)
-
+- [Graphue](https://graphue.com/) - The Simplest Way To Build a Great Presentation
 - [Flat Letter Animation in PowerPoint - Motion Graphics Tutorial - Part 2](https://www.youtube.com/watch?v=Y_quDjJ2Uzg&feature=youtu.be)
 
 ## 🛠Accessories
