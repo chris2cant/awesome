@@ -51,6 +51,7 @@ Thanks to all the contributors who made me discover incredible things !
 - [Français](/src/french.md)
 - [👨‍💻Mac](/src/mac.md)
 - [🏡 Home office](/src/home-office.md)
+- [🧠 Humans](/src/human.md)
 
 ## Other
 
