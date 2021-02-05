@@ -10,9 +10,10 @@
 - [Kikamisa](https://play.kikamisa.fr/menu) - Override subtitles
 - [What the tune](https://whatthetune.com/) - Blind test
 - [Skribbl](https://skribbl.io/) - Drawing game
-- [jklm.fun](https://jklm.fun/) - Online Game
-- [Board Game Arena](https://boardgamearena.com/welcome)
 - [Garticphone](https://garticphone.com) - The phone game
+- Board Game
+  - [Board Game Arena](https://boardgamearena.com/welcome)
+  - [jklm.fun](https://jklm.fun/) - Online Game
 
 ## Tips
 
