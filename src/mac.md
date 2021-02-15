@@ -9,6 +9,12 @@
 |Screen shot on clipboard|`Ctrl`+`⌥`+`Maj`+`4`|
 |Switch windows inside same space|`Ctrl`+`F4` (You can customise to `⌥` `⇥`)|
 
+## App
+
+- [Lunar](https://lunar.fyi) - Intelligent adaptive brightness for your external display
+- [Spectacle App](https://www.spectacleapp.com) - Move and resize windows with ease
+- [F.Lux](https://justgetflux.com/) - Adapt screen color to reduce eye strain
+
 ## Custom defaults
 
 ### Autohide dock time
