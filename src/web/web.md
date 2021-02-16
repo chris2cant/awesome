@@ -25,7 +25,13 @@ owpack](https://www.snowpack.dev/) - Build web applications with less tooling an
 
 - [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
 
+## CMS
+
+- [Squarespace](https://squarespace.com)
+- [Weblium](https://weblium.com/) - The most effortless way to build for the web
+
 ## Contributors
 
 - Yann Duval
 - [Mathieu Piasco](https://github.com/piascwal)
+- [Jean-Christophe Queval-Bourgeois](https://github.com/queval-j)
