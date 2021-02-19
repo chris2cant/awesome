@@ -41,6 +41,7 @@ It's on 3 parts :
 - [Slidesgo](https://slidesgo.com/) - Template Powerpoint and Google drive
 - [Mentimeter](https://www.mentimeter.com/) - Live form
 - [Graphue](https://graphue.com/)
+- [Jitter](https://jitter.video/) - Create animmations
 
 ## 📦 Library
 
