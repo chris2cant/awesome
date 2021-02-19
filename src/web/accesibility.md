@@ -7,6 +7,7 @@
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [a11ymatters](https://www.a11ymatters.com) - Let's care more about web accessibility
 - [Accessibility checklist used by Duet’s core team](https://www.duetds.com/accessibility/)
+- [React Aria](https://react-spectrum.adobe.com/react-aria) - A library of React Hooks that provides accessible UI primitives for your design system.
 
 ## Chrome extentions
 
@@ -78,3 +79,4 @@ Use `user-select: none` to disable. Don't use `pointer-events: none` because the
 ## 🙌 Contributors 
 
 - Yann Duval
+- Gabriel Lebaudy
