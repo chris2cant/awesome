@@ -37,6 +37,7 @@
   - [Gitbook](https://www.gitbook.com/) - Document Everything! For you, your users and your team
   - [Atomic docs](http://atomicdocs.io/) - A style guide generator and component manager
 - [DesignFriendly](https://superfriendlydesign.systems/tools/) - Tools
+- [React Aria](https://react-spectrum.adobe.com/react-aria) - A library of React Hooks that provides accessible UI primitives for your design system.
 
 ## Sketch
 
@@ -83,3 +84,8 @@
 - [🔤The ABCs of Design Systems](https://medium.com/curiosity-by-design/the-abcs-of-design-systems-b1dc6198bb7c)
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [How I programmatically built 256 new design system components in Figma](https://medium.com/uber-design/how-i-programmatically-built-256-new-design-system-components-in-figma-84ee26d119c1?source=userActivityShare-e27910f3cc7e-1613055951&_branch_match_id=646716559873364153)
+
+## 🙌 Contributors
+
+- Jules Mahé
+- Gabriel Lebaudy
