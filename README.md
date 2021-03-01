@@ -48,7 +48,7 @@ Thanks to all the contributors who made me discover incredible things !
 - [Chart](/src/chart.md)
 - Communities
 - [top50slack](https://www.top50slack.com/#get)
-- [Français](/src/french.md)
+- [🇫🇷 Français](/src/french.md)
 - [👨‍💻Mac](/src/mac.md)
 - [🏡 Home office](/src/home-office.md)
 - [🧠 Humans](/src/human.md)
