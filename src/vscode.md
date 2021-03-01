@@ -36,6 +36,7 @@
 - [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 - [VSCode HackerTyper](https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-hacker-typer)
 - TSLint
+- [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite) - AutoComplete AI Code
 - Schema
 	- [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 	- [Sequence Diagrams](https://marketplace.visualstudio.com/items?itemName=AleksandarDev.vscode-sequence-diagrams)
