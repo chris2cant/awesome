@@ -11,5 +11,5 @@
 ## Grammaire
 
 - Malgré que / Bien que
-  - ✅. Bien qu’il pleuve ou ✅. Malgré la pluie / ❌  Malgré qu’il pleuve
-  - ✅. Bien que son travail donne satisfaction / ❌. Malgré que son travail donne satisfaction
+  - ✅ Bien qu’il pleuve ou ✅ Malgré la pluie / ❌ Malgré qu’il pleuve
+  - ✅ Bien que son travail donne satisfaction / ❌ Malgré que son travail donne satisfaction
