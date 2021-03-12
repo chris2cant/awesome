@@ -4,6 +4,8 @@
 
 - [Adele](https://adele.uxpin.com/) - The repository of publicly available design systems and pattern libraries
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems)
+- [Component Gallery](https://component.gallery/)
+- [Design System France](https://www.designsystems.fr/liste-des-designs-systems-francais) - 🇫🇷 French Design System gallery
 
 ## 🛠 Tools
 
