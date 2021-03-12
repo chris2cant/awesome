@@ -85,7 +85,7 @@
 - [🔤The ABCs of Design Systems](https://medium.com/curiosity-by-design/the-abcs-of-design-systems-b1dc6198bb7c)
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [How I programmatically built 256 new design system components in Figma](https://medium.com/uber-design/how-i-programmatically-built-256-new-design-system-components-in-figma-84ee26d119c1?source=userActivityShare-e27910f3cc7e-1613055951&_branch_match_id=646716559873364153)
-
+- [Optical Effects in User Interfaces](https://medium.muz.li/optical-effects-9fca82b4cd9a) - Icon size
 ## 🙌 Contributors
 
 - Jules Mahé
