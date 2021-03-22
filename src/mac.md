@@ -12,8 +12,9 @@
 ## App
 
 - [Lunar](https://lunar.fyi) - Intelligent adaptive brightness for your external display
-- [Spectacle App](https://www.spectacleapp.com) - Move and resize windows with ease
-- [F.Lux](https://justgetflux.com/) - Adapt screen color to reduce eye strain
+- [Spectacle App](https://www.spectacleapp.com) - Move and resize windows with ease (Free)
+- [F.Lux](https://justgetflux.com/) - Adapt screen color to reduce eye strain (Free)
+- [ImageOptim](https://imageoptim.com/fr) - Image optimizer (Free)
 
 ## Custom defaults
 
