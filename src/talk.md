@@ -62,6 +62,10 @@ It's on 3 parts :
 
 - [Logitech Remote - R500](https://www.amazon.fr/Logitech-R500-T%C3%A9l%C3%A9commande-pr%C3%A9sentation-laser/dp/B07CKDJ55F/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=r500&qid=1570796844&sr=8-3) 
 
+## Stream
+
+- [OBS NDI](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/)
+
 ## 🙌 Contributors
 
 - Christophe de Canteloube
