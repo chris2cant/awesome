@@ -68,7 +68,7 @@ It's on 3 parts :
 
 ### Plugins
 
-- [OBS NDI](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/)\
+- [OBS NDI](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/)
 - [NDI HX Tools](https://www.newtek.com/ndihx/products/)
 - [TDR VOS SlickEQ GE](https://www.tokyodawn.net/tdr-vos-slickeq-ge)
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/)
