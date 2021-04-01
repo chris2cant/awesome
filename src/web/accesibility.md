@@ -39,6 +39,7 @@
 - [Accessibility Statistics](https://www.interactiveaccessibility.com/accessibility-statistics)
 - [Accessibility guidelines for UX Designers](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be)
 - [Scaling accessibility with a design system](https://gerireid.com/accessibility.html)
+- [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 
 ## Guide lines
 
