@@ -51,6 +51,11 @@ fully customizable
 
 - [Videoplasty](https://videoplasty.com/) 💵
 
+## Apps
+
+- [Photopea](https://www.photopea.com ) - Photoshop Like
+- [Canva](https://www.canva.com/)
+
 ## Tools 
 
 - [SVG OMG](https://jakearchibald.github.io/svgomg/) - Optimise your SVG
