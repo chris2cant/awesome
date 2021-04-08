@@ -2,4 +2,4 @@
 
 ## Tools
 
-- [OnOff](https://www.onoff.app/) - Réinventez votre communication avec l'application Onoff
+- [OnOff](https://www.onoff.app/) - Votre second numéro avec une application !
