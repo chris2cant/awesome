@@ -52,6 +52,7 @@ Thanks to all the contributors who made me discover incredible things !
 - [💻 Mac](/src/mac.md)
 - [🏡 Home office](/src/home-office.md)
 - [🧠 Humans](/src/human.md)
+- [Startup](/src/startup.md) (Work In Progress 🏗)
 
 ## Other
 
