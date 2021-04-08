@@ -70,7 +70,7 @@ It's on 3 parts :
 
 - [OBS NDI](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/)
 - [NDI HX Tools](https://www.newtek.com/ndihx/products/)
-- [TDR VOS SlickEQ GE](https://www.tokyodawn.net/tdr-vos-slickeq-ge)
+- [TDR VOS SlickEQ GE](https://www.tokyodawn.net/tdr-vos-slickeq/)
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/)
 - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov)
 - [Wider](https://polyversemusic.com/products/wider)
