@@ -66,6 +66,10 @@ It's on 3 parts :
 
 - [How To Improve Your Mic Audio In OBS Studio](https://youtu.be/U7_LYaNpwEA)
 
+### Virtual device
+
+- [Blackhole](https://github.com/ExistentialAudio/BlackHole)
+
 ### Plugins
 
 - [OBS NDI](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/)
@@ -74,6 +78,7 @@ It's on 3 parts :
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/)
 - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov)
 - [Wider](https://polyversemusic.com/products/wider)
+- [Auburn sounds Graillon](https://www.auburnsounds.com/products/Graillon.html)
 
 ## 🙌 Contributors
 
