@@ -24,6 +24,7 @@
 - [Leonardo Color](https://leonardocolor.io) - An open source contrast-based color generator
 - [Design Critique Cards](https://www.designcritiquecards.com/)
 - [Colorbox](https://www.colorbox.io/)
+- [Dovetail App](https://dovetailapp.com/) - User research platform
 
 ## Articles
 
