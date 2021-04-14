@@ -9,3 +9,7 @@
 - [Mural](https://mural.co/) - Remote collaboration made simple
 - [Sequence Diagram](https://sequencediagram.org)
 - [XMind](https://www.xmind.net/)
+
+## Contributors
+
+- [François Chaillot](https://www.francoischaillot.com/)
