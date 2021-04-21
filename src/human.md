@@ -9,6 +9,10 @@
 
 - [Neurosciences : les méandres du cerveau](https://www.youtube.com/watch?v=fQEiyUj_Dn0)
 
+## Books
+
+- [Pourquoi moi je suis moi ? et autres questions d'enfance](https://www.amazon.fr/Pourquoi-suis-autres-questions-denfance/dp/2070147002/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pourquoi+moi+je+suis+moi&qid=1618941010&sr=8-1) - From 6 years old
+
 ## Contributors
 
 - [François Chaillot](https://www.francoischaillot.com/)
