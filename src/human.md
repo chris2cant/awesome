@@ -11,6 +11,7 @@
 
 ## Books
 
+- [Le grand livre de l'ennéagramme](https://www.amazon.fr/grand-livre-lenn%C3%A9agramme-personnalit%C3%A9s-comprendre/dp/2212560451): Découvrir les 9 types de personnalités. Bien se connaître et mieux comprendre les autres. Utiliser l'ennéagramme au quotidien.
 - [Pourquoi moi je suis moi ? et autres questions d'enfance](https://www.amazon.fr/Pourquoi-suis-autres-questions-denfance/dp/2070147002/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pourquoi+moi+je+suis+moi&qid=1618941010&sr=8-1) - From 6 years old
 
 ## Contributors
