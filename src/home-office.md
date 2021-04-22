@@ -5,6 +5,10 @@
 - [Ergonomic Desk Height Calculator](http://www.ergotron.com/tools/workspace-planner)
 - [📹 Ergonomics Expert Explains How to Set Up Your Desk](https://youtu.be/F8_ME4VwTiw)
 
+## Google Home
+
+Use routines to assist your day
+
 ## Games
 
 - [Kikamisa](https://play.kikamisa.fr/menu) - Override subtitles
