@@ -36,6 +36,7 @@ sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Fra
 - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov)
 - [Wider](https://polyversemusic.com/products/wider)
 - [Auburn sounds Graillon](https://www.auburnsounds.com/products/Graillon.html)
+- [TAL Reverb 4](https://tal-software.com/products/tal-reverb-4)
 
 #### TDR VOS SlickEQ (Free)
 
