@@ -13,6 +13,7 @@
 
 - [Timer](http://design.giannipolito.fr/timer/)
 - [Poker cards](http://design.giannipolito.fr/poker) - Web Mobile
+- [Milanote](https://milanote.com/) - Get organized. Stay creative
 
 
 <a name="daily-meeting"/>
