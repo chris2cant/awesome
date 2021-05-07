@@ -5,7 +5,7 @@
 |State|CSS|Description|Example|
 |---|---|---|---|
 |Default||Default state||
-|Disabled|:disabled|User interaction disabled||
+|Disabled|:disabled|User interaction disabled|Button, Input|
 |Hover|:hover|When a user has placed a cursor above an interactive element||
 |Focus|:focus|When a user has highlighted an element (Keyboard or Voiceover)||
 |Selected|:selected|A user choice|Menu|
