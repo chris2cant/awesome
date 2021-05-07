@@ -2,16 +2,16 @@
 
 ## Descriptions
 
-|State|CSS|Description|
-|---|---|---|
-|Default||Default state|
-|Disabled|:disabled|User interaction disabled|
-|Hover|:hover|When a user has placed a cursor above an interactive element|
-|Focus|:focus|When a user has highlighted an element (Keyboard or Voiceover)|
-|Selected|:selected|A user choice|
-|Invalid|:invalid|Error field|
-|Active|:active|When you currently click on it |
-|Visited|:visited|Link already visited|
+|State|CSS|Description|Example|
+|---|---|---|---|
+|Default||Default state||
+|Disabled|:disabled|User interaction disabled||
+|Hover|:hover|When a user has placed a cursor above an interactive element||
+|Focus|:focus|When a user has highlighted an element (Keyboard or Voiceover)||
+|Selected|:selected|A user choice|Menu|
+|Invalid|:invalid|Error field||
+|Active|:active|When you currently click on it ||
+|Visited|:visited|Link already visited||
 
 |Component|Default|Disabled|Hover|Focus|Invalid/Error|Selected|Active|Pressed|Visited|
 
