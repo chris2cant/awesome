@@ -11,6 +11,7 @@
 |Selected|:selected|A user choice|
 |Invalid|:invalid|Error field|
 |Active|:active|When you currently click on it |
+|Visited|:visited|Link already visited|
 
 |Component|Default|Disabled|Hover|Focus|Invalid/Error|Selected|Active|Pressed|Visited|
 
