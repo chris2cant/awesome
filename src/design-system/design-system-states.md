@@ -18,7 +18,7 @@
 
 |Component|Default|Hover|Disabled|Focus|Active|Selected|Checked / Not Checked|Visited|Invalid|Read Only|
 |---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||
+|Button|✅|✅|✅|✅|✅|||✅|||
 
 ## Components
 
