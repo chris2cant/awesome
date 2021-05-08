@@ -10,7 +10,7 @@
 |Focus|:focus|When a user has highlighted an element (Keyboard or Voiceover)||
 |Selected|:selected|A user choice|Menu|
 |Invalid|:invalid|Error field||
-|Active|:active|When you currently click on it ||
+|Active|:active|When you currently click on it (During Mouse down) |Button|
 |Visited|:visited|Link already visited||
 
 |Component|Default|Disabled|Hover|Focus|Invalid/Error|Selected|Active|Pressed|Visited|
