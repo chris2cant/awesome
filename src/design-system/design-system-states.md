@@ -16,9 +16,10 @@
 |Invalid|:invalid|Error field||
 |Read Only|:read-only|On readable not writable|Input|
 
-|Component|Default|Hover|Disabled|Focus|Active|Selected|Checked / Not Checked|Visited|Invalid|Read Only|
+|Component|Default|Hover|Disabled|Focus|Active|Selected|Checked / Not Checked|Visited|Valid / Invalid|Read Only|
 |---|---|---|---|---|---|---|---|---|---|---|
 |Button|✅|✅|✅|✅|✅|||✅|||
+|Input Text Field|✅|✅|✅|✅|||||✅|✅|
 
 ## Components
 
