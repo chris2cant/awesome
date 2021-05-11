@@ -2,8 +2,8 @@
 
 ## Outils
 
-- [Scribens](https://www.scribens.fr/index.html)
-- [Bonpatron](https://bonpatron.com/en/)
+- [Scribens](https://www.scribens.fr/index.html) - Correcteur
+- [Bonpatron](https://bonpatron.com/en/) - Correcteur
 
 ## Orthographe
 
