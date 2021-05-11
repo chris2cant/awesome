@@ -42,6 +42,7 @@ It's on 3 parts :
 - [Mentimeter](https://www.mentimeter.com/) - Live form
 - [Graphue](https://graphue.com/)
 - [Jitter](https://jitter.video/) - Create animmations
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 
 ## 📦 Library
 
