@@ -1,5 +1,10 @@
 # 🇫🇷 Français
 
+## Outils
+
+- [Scribens](https://www.scribens.fr/index.html)
+- [Bonpatron](https://bonpatron.com/en/)
+
 ## Orthographe
 
 - Nou**rr**ir prend 2 `r` car tu te nourris plusieurs fois
@@ -9,17 +14,12 @@
 - Leur vs Leur**s** : Si tu peux remplacer par `lui` c'est `leur` (Il **lui** donne => Il **leur** donne)
 - Le sens de la r`e`parti vs Le téritoire r`é`parti (Verbe repartir)
 
-### Outils
-
-- [Scribens](https://www.scribens.fr/index.html)
-- [Bonpatron](https://bonpatron.com/en/)
-
 ## Grammaire
 
 - Malgré que / Bien que
   - ✅ Bien qu’il pleuve ou ✅ Malgré la pluie / ❌ Malgré qu’il pleuve
   - ✅ Bien que son travail donne satisfaction / ❌ Malgré que son travail donne satisfaction
 
-## Contributors
+## 🙌 Contributors
 
 - [François Chaillot](https://www.francoischaillot.com/)
