@@ -13,6 +13,7 @@
 
 - [Lunar](https://lunar.fyi) - Intelligent adaptive brightness for your external display
 - [Spectacle App](https://www.spectacleapp.com) - Move and resize windows with ease (Free)
+- [Rectangle](https://github.com/rxhanson/Rectangle) - Window management app based on Spectacle, written in Swift.
 - [F.Lux](https://justgetflux.com/) - Adapt screen color to reduce eye strain (Free)
 - [ImageOptim](https://imageoptim.com/fr) - Image optimizer (Free)
 
