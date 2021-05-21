@@ -39,8 +39,12 @@
 - Disabled
 - Focus
 - Read Only
-- Invalid 
+- Invalid
+  - Invalid + Hover   
+  - Invalid + Focus
 - Valid
+  - Valid + Hover
+  - Valid + Focus
 - Required
 - Label
 
