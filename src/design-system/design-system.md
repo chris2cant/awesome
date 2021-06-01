@@ -48,6 +48,7 @@
 ## Storybook
 
 - [Design Tokens](https://github.com/UX-and-I/storybook-design-token)
+- [Addon Outline](https://github.com/chromaui/storybook-addon-outline)
 
 ## Framework
 
