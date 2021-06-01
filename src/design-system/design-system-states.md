@@ -35,6 +35,7 @@
 ## Input text field
 
 - Default
+- Not empty
 - Hover
 - Disabled
 - Focus
