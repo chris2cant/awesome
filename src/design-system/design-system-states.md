@@ -41,11 +41,20 @@
 - Focus
 - Read Only
 - Invalid
+  - Invalid + Default
   - Invalid + Hover   
   - Invalid + Focus
+  - Invalid + Disabled
+- Warning
+  - Warning + Default
+  - Warning + Hover   
+  - Warning + Focus
+  - Warning + Disabled
 - Valid
-  - Valid + Hover
+  - Valid + Default
+  - Valid + Hover   
   - Valid + Focus
+  - Valid + Disabled
 - Required
 - Label
 
