@@ -15,6 +15,7 @@ Thanks to all the contributors who made me discover incredible things !
   - [Remove duplicated files 🗑](/src/script/remove-duplicated-files.md)
   - [Sync Folder ↔️](/src/script/sync-folder.md)
 - [Design System](/src/design-system/design-system.md)
+  - [Design System - States](/src/design-system/design-system-states.md)
 - [Web 🌎](/src/web/web.md)
   - [Javascript & Typescript](/src/web/javascript-typescript.md)
     - [Javascript & Typescript - Style Guide](/src/web/javascript-typescript-style-guide.md)
