@@ -35,11 +35,12 @@
 ## Input text field
 
 - Default
-- Not empty
 - Hover
 - Disabled
 - Focus
 - Read Only
+- Empty
+- Not Empty
 - Invalid
   - Invalid + Default
   - Invalid + Hover   
@@ -68,6 +69,15 @@
 - Not checked + Active
 - Animation between Checked/Not Checked
 
+## Select list
+
+- Default
+- Hover
+- Disabled
+- Focus
+- Selected
+
+      
 ## Ressources
 
 - [Design Encyclopedia](https://www.designencyclopedia.io/)
