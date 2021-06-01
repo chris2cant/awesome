@@ -7,7 +7,7 @@
 I love to share everithing that I discover that is awesome !
 Thanks to all the contributors who made me discover incredible things !
 
-## Table of content
+## Table of contents
 
 - [Git (Commands & Tips)](/src/git.md)
 - [VSCode](/src/vscode.md)
