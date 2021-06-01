@@ -72,3 +72,4 @@
 
 - [Design Encyclopedia](https://www.designencyclopedia.io/)
 - [Checklist Design](https://www.checklist.design/)
+- [AntDesign - Figma](https://www.figma.com/file/9UVJgFX0L3mez1fMzsIp7J/(Preview)-Ant-Design-System-for-Figma-2.0-(Light-Theme)?node-id=371%3A8955)
